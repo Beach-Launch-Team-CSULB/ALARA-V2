@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=3.3V Reg NewDesignator=3.3V
+Change Component Designator: OldDesignator=5V Reg NewDesignator=5V
+Change Net Name : Old Net Name=Net3.3V Reg_1 New Net Name=Net3.3V_1
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3V AZ1117CH2-3.3TRG1

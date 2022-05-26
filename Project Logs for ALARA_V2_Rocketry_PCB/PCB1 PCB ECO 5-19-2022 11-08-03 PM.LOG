@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=NOR?_1 NewDesignator=NOR_1
+Change Component Designator: OldDesignator=NOR?_2 NewDesignator=NOR_2
+Change Component Designator: OldDesignator=NOR?_3 NewDesignator=NOR_3
+Change Component Designator: OldDesignator=NOR?_4 NewDesignator=NOR_4
+Change Component Designator: OldDesignator=NOR?_5 NewDesignator=NOR_5
+Change Component Designator: OldDesignator=NOR?_6 NewDesignator=NOR_6
+Change Component Designator: OldDesignator=NOR?_7 NewDesignator=NOR_7
+Change Component Designator: OldDesignator=NOR?_8 NewDesignator=NOR_8
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

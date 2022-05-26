@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=AIN8 Pin=Analog Inputs-11
+Removed Pin From Net: NetName=GND Pin=Analog Inputs-25
+Removed Pin From Net: NetName=5V Pin=Analog Inputs-26
+Removed Pin From Net: NetName=GND Pin=C_F9-1
+Removed Pin From Net: NetName=GND Pin=C_F10-1
+Removed Pin From Net: NetName=GND Pin=R2_F9-2
+Removed Pin From Net: NetName=GND Pin=R2_F10-2
+Removed Member From Class: ClassName=Analog Signal Filter Member=F9
+Removed Member From Class: ClassName=Analog Signal Filter Member=F10
+Added Component: Designator=IC?(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/az1117ch2-3.3trg1/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AZ1117CH2-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/az1117ch2-5.0trg1/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AZ1117CH2-5.0TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFN50P700X700X100-49N-D
+Added Pin To Net: NetName=GND Pin=Analog Inputs-11
+Added Pin To Net: NetName=AIN8 Pin=Analog Inputs-12
+Added Pin To Net: NetName=5V Pin=Analog Inputs-25
+Added Pin To Net: NetName=Net3.3V LVR_1 Pin=IC?-1
+Added Pin To Net: NetName=Net3.3V LVR_1 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=3.3V Pin=IC?-3
+Added Pin To Net: NetName=5V Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-4
+Change Net Name : Old Net Name=Net3.3V LVR_1 New Net Name=NetC103_2
+Added Member To Class: ClassName=Sheet1 Member=Component IC? AZ1117CH2-3.3TRG1
+Added Member To Class: ClassName=Sheet1 Member=Component IC? AZ1117CH2-5.0TRG1
+Added Member To Class: ClassName=Sheet1 Member=Component IC? MKL26Z64VFT4

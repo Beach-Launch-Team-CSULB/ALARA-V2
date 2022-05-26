@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=3.3V Pin=LoRa Misc-1
+Removed Pin From Net: NetName=GND Pin=LoRa Misc-2
+Removed Pin From Net: NetName=LoRa RST Pin=LoRa Misc-3
+Removed Pin From Net: NetName=LoRa INT Pin=LoRa Misc-4
+Removed Pin From Net: NetName=SCLK Pin=LoRa SPI-1
+Removed Pin From Net: NetName=MOSI Pin=LoRa SPI-2
+Removed Pin From Net: NetName=MISO Pin=LoRa SPI-3
+Removed Pin From Net: NetName=LoRa CSN Pin=LoRa SPI-4
+Removed Pin From Net: NetName=3.3V Pin=NRF Misc-1
+Removed Pin From Net: NetName=GND Pin=NRF Misc-2
+Removed Pin From Net: NetName=NRF CE Pin=NRF Misc-3
+Removed Pin From Net: NetName=NRF IRQ Pin=NRF Misc-4
+Removed Pin From Net: NetName=SCLK Pin=NRF SPI-1
+Removed Pin From Net: NetName=MOSI Pin=NRF SPI-2
+Removed Pin From Net: NetName=MISO Pin=NRF SPI-3
+Removed Pin From Net: NetName=NRF CSN Pin=NRF SPI-4
+Change Component Footprint: Designator=LoRa Misc Old Footprint=HDR1X4 New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=LoRa SPI Old Footprint=HDR1X4 New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=NRF Misc Old Footprint=HDR1X4 New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=NRF SPI Old Footprint=HDR1X4 New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=LoRa Misc Old Comment=Header 4 New Comment=B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=LoRa SPI Old Comment=Header 4 New Comment=B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=NRF Misc Old Comment=Header 4 New Comment=B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=NRF SPI Old Comment=Header 4 New Comment=B4B-XH-A(LF)(SN)
+Change component parameters: Designator = "LoRa Misc" ("LoRa Misc"); Footprint = "HDR1X4"; UniqueID = "\TSKPFLAI" ("\TSKPFLAI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "LoRa SPI" ("LoRa SPI"); Footprint = "HDR1X4"; UniqueID = "\KIIWZPTI" ("\KIIWZPTI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "NRF Misc" ("NRF Misc"); Footprint = "HDR1X4"; UniqueID = "\LZUVOCNP" ("\LZUVOCNP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "NRF SPI" ("NRF SPI"); Footprint = "HDR1X4"; UniqueID = "\BJUXKSBU" ("\BJUXKSBU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LoRa INT Pin=LoRa Misc-1
+Added Pin To Net: NetName=LoRa RST Pin=LoRa Misc-2
+Added Pin To Net: NetName=GND Pin=LoRa Misc-3
+Added Pin To Net: NetName=3.3V Pin=LoRa Misc-4
+Added Pin To Net: NetName=LoRa CSN Pin=LoRa SPI-1
+Added Pin To Net: NetName=MISO Pin=LoRa SPI-2
+Added Pin To Net: NetName=MOSI Pin=LoRa SPI-3
+Added Pin To Net: NetName=SCLK Pin=LoRa SPI-4
+Added Pin To Net: NetName=NRF IRQ Pin=NRF Misc-1
+Added Pin To Net: NetName=NRF CE Pin=NRF Misc-2
+Added Pin To Net: NetName=GND Pin=NRF Misc-3
+Added Pin To Net: NetName=3.3V Pin=NRF Misc-4
+Added Pin To Net: NetName=NRF CSN Pin=NRF SPI-1
+Added Pin To Net: NetName=MISO Pin=NRF SPI-2
+Added Pin To Net: NetName=MOSI Pin=NRF SPI-3
+Added Pin To Net: NetName=SCLK Pin=NRF SPI-4
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

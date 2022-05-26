@@ -1,0 +1,11 @@
+Add Component: Footprint Not Found QFN50P700X700X100-49N-D
+Added Pin To Net: NetName=RS-485A Pin=High Power Output and Bus Connector-23
+Added Net: Name=RS-485A
+Added Pin To Net: NetName=RS-485B Pin=High Power Output and Bus Connector-24
+Added Net: Name=RS-485B
+Added Pin To Net: NetName=RS-485C Pin=High Power Output and Bus Connector-48
+Added Net: Name=RS-485C
+Added Pin To Net: NetName=RS-485D Pin=High Power Output and Bus Connector-49
+Added Net: Name=RS-485D
+Added Member To Class: ClassName=Sheet1 Member=Component IC? MKL26Z64VFT4
+Added Member To Class: ClassName=Sheet1 Member=Component IC? AZ1117CH2-3.3TRG1

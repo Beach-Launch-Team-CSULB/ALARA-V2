@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=Analog Inputs Old Footprint=G125-MH11605M4P New Footprint=G125-MH12605M4P
+Change Component Comment : Designator=Analog Inputs Old Comment=G125-MH11605M4P New Comment=G125-MH12605M4P
+Change component parameters: Designator = "Analog Inputs" ("Analog Inputs"); Footprint = "G125-MH11605M4P"; UniqueID = "\YTPZPKVJ" ("\YTPZPKVJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/G125-MH1XX05M4P.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G125-MH12605M4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-G125MH1265M4PM4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/G125-MH12605M4P?qs=vHuUswq2%252BsyDONvvJZj7dA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

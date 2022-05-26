@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P? NewDesignator=USB
+Change Component Designator: OldDesignator=PS? NewDesignator=BUCK
+Change Net Name : Old Net Name=NetC102_2 New Net Name=NetBUCK_3
+Added Member To Class: ClassName=Sheet1 Member=Component USB 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

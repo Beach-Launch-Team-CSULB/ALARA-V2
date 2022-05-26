@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-11
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-12
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-13
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-14
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-15
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-16
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-17
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-18
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-19
+Added Pin To Net: NetName=BULLSHIT Pin=High Power Output-20
+Added Pin To Net: NetName=BULLSHIT Pin=J1-1
+Added Pin To Net: NetName=BULLSHIT Pin=P?-2
+Added Pin To Net: NetName=BULLSHIT Pin=R101-2
+Change Net Name : Old Net Name=BULLSHIT New Net Name=BAT+
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

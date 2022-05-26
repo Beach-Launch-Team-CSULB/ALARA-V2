@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C404-1
+Removed Pin From Net: NetName=3.3V Pin=C404-2
+Removed Pin From Net: NetName=GND Pin=C406-1
+Removed Pin From Net: NetName=3.3V Pin=C406-2
+Removed Member From Class: ClassName=Sheet1 Member=C408
+Removed Member From Class: ClassName=Sheet1 Member=C409
+Change Component Designator: OldDesignator=C405 NewDesignator=C404
+Change Component Designator: OldDesignator=C407 NewDesignator=C405
+Change Component Designator: OldDesignator=C408 NewDesignator=C406
+Change Component Designator: OldDesignator=C409 NewDesignator=C407
+Added Pin To Net: NetName=3.3V Pin=C509-1
+Added Pin To Net: NetName=3.3V Pin=MUX-16
+Change Net Name : Old Net Name=NetC405_2 New Net Name=NetC404_2

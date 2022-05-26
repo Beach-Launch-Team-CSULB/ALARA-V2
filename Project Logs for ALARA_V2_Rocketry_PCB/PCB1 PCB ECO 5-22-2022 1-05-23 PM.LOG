@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=BAT+ Pin=Bus Connector-1
+Added Pin To Net: NetName=GND Pin=Bus Connector-2
+Added Pin To Net: NetName=CANH1 Pin=Bus Connector-5
+Added Pin To Net: NetName=CANL1 Pin=Bus Connector-6
+Added Pin To Net: NetName=BAT+ Pin=Bus Connector-7
+Added Pin To Net: NetName=GND Pin=Bus Connector-8
+Added Pin To Net: NetName=CANH2 Pin=Bus Connector-11
+Added Pin To Net: NetName=CANL2 Pin=Bus Connector-12
+Added Pin To Net: NetName=NetLabel117 Pin=Bus Connector-10
+Added Net: Name=NetLabel117
+Added Pin To Net: NetName=NetLabel118 Pin=Bus Connector-9
+Added Net: Name=NetLabel118
+Added Pin To Net: NetName=NetLabel121 Pin=Bus Connector-4
+Added Net: Name=NetLabel121
+Added Pin To Net: NetName=NetLabel122 Pin=Bus Connector-3
+Added Net: Name=NetLabel122

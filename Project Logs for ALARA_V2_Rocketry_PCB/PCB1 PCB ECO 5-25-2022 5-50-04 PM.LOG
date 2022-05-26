@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=A RED1 Pin=R1_L1-2
+Removed Pin From Net: NetName=A RED2 Pin=R1_L2-2
+Removed Pin From Net: NetName=A GRN1 Pin=R2_L1-1
+Removed Pin From Net: NetName=A GRN2 Pin=R2_L2-1
+Removed Pin From Net: NetName=A BLU1 Pin=R3_L1-1
+Removed Pin From Net: NetName=A BLU2 Pin=R3_L2-1
+Added Component: Designator=D?_L1(FP-CLY6D-FKC-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "240mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D?_L1(FP-CLY6D-FKC-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "240mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D?_L1(FP-CLY6D-FKC-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "240mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D?_L2(FP-CLY6D-FKC-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "240mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D?_L2(FP-CLY6D-FKC-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "240mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D?_L2(FP-CLY6D-FKC-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "240mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A BLU1 Pin=D?_L1-4
+Added Pin To Net: NetName=A GRN1 Pin=D?_L1-5
+Added Pin To Net: NetName=A RED1 Pin=D?_L1-6
+Added Pin To Net: NetName=A BLU2 Pin=D?_L2-4
+Added Pin To Net: NetName=A GRN2 Pin=D?_L2-5
+Added Pin To Net: NetName=A RED2 Pin=D?_L2-6
+Added Pin To Net: NetName=GND Pin=R1_L1-1
+Added Pin To Net: NetName=GND Pin=R1_L2-1
+Added Pin To Net: NetName=GND Pin=R2_L1-2
+Added Pin To Net: NetName=GND Pin=R2_L2-2
+Added Pin To Net: NetName=GND Pin=R3_L1-2
+Added Pin To Net: NetName=GND Pin=R3_L2-2
+Added Pin To Net: NetName=NetD?_L1_1 Pin=D?_L1-1
+Added Pin To Net: NetName=NetD?_L1_1 Pin=R3_L1-1
+Added Net: Name=NetD?_L1_1
+Added Pin To Net: NetName=NetD?_L1_2 Pin=D?_L1-2
+Added Pin To Net: NetName=NetD?_L1_2 Pin=R2_L1-1
+Added Net: Name=NetD?_L1_2
+Added Pin To Net: NetName=NetD?_L1_3 Pin=D?_L1-3
+Added Pin To Net: NetName=NetD?_L1_3 Pin=R1_L1-2
+Added Net: Name=NetD?_L1_3
+Added Pin To Net: NetName=NetD?_L2_1 Pin=D?_L2-1
+Added Pin To Net: NetName=NetD?_L2_1 Pin=R3_L2-1
+Added Net: Name=NetD?_L2_1
+Added Pin To Net: NetName=NetD?_L2_2 Pin=D?_L2-2
+Added Pin To Net: NetName=NetD?_L2_2 Pin=R2_L2-1
+Added Net: Name=NetD?_L2_2
+Added Pin To Net: NetName=NetD?_L2_3 Pin=D?_L2-3
+Added Pin To Net: NetName=NetD?_L2_3 Pin=R1_L2-2
+Added Net: Name=NetD?_L2_3
+Added Member To Class: ClassName=L1 Member=Component D?_L1 (D?A) CLY6D-FKC-CK1N1D1BB7D3D3
+Added Member To Class: ClassName=L1 Member=Component D?_L1 (D?A) CLY6D-FKC-CK1N1D1BB7D3D3
+Added Member To Class: ClassName=L1 Member=Component D?_L1 (D?A) CLY6D-FKC-CK1N1D1BB7D3D3
+Added Member To Class: ClassName=L2 Member=Component D?_L2 (D?A) CLY6D-FKC-CK1N1D1BB7D3D3
+Added Member To Class: ClassName=L2 Member=Component D?_L2 (D?A) CLY6D-FKC-CK1N1D1BB7D3D3
+Added Member To Class: ClassName=L2 Member=Component D?_L2 (D?A) CLY6D-FKC-CK1N1D1BB7D3D3

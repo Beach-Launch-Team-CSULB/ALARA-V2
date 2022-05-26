@@ -1,0 +1,60 @@
+Add Component: Footprint Not Found SOT230P700X180-4N
+Add Component: Footprint Not Found SOT230P700X180-4N
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-1
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-2
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-3
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-4
+Add Pin To Net: Unknown Pin: Pin 5V LVR-1
+Add Pin To Net: Unknown Pin: Pin 5V LVR-2
+Add Pin To Net: Unknown Pin: Pin 5V LVR-3
+Add Pin To Net: Unknown Pin: Pin 5V LVR-4
+Added Pin To Net: NetName=GND Pin=Analog Inputs-2
+Added Pin To Net: NetName=GND Pin=Analog Inputs-5
+Added Pin To Net: NetName=GND Pin=Analog Inputs-8
+Added Pin To Net: NetName=GND Pin=Analog Inputs-10
+Added Pin To Net: NetName=GND Pin=Analog Inputs-12
+Added Pin To Net: NetName=5V Pin=Analog Inputs-14
+Added Pin To Net: NetName=GND Pin=Analog Inputs-15
+Added Pin To Net: NetName=5V Pin=Analog Inputs-16
+Added Pin To Net: NetName=5V Pin=Analog Inputs-17
+Added Pin To Net: NetName=GND Pin=Analog Inputs-18
+Added Pin To Net: NetName=5V Pin=Analog Inputs-19
+Added Pin To Net: NetName=5V Pin=Analog Inputs-20
+Added Pin To Net: NetName=GND Pin=Analog Inputs-21
+Added Pin To Net: NetName=5V Pin=Analog Inputs-22
+Added Pin To Net: NetName=5V Pin=Analog Inputs-23
+Added Pin To Net: NetName=5V Pin=Analog Inputs-25
+Change Net Name : Old Net Name=NetC_F1_2 New Net Name=AOUT1
+Change Net Name : Old Net Name=NetC_F2_2 New Net Name=AOUT2
+Change Net Name : Old Net Name=NetC_F3_2 New Net Name=AOUT3
+Change Net Name : Old Net Name=NetC_F4_2 New Net Name=AOUT4
+Change Net Name : Old Net Name=NetC_F5_2 New Net Name=AOUT5
+Change Net Name : Old Net Name=NetC_F6_2 New Net Name=AOUT6
+Added Pin To Net: NetName=ADIF+1 Pin=Analog Inputs-11
+Added Net: Name=ADIF+1
+Added Pin To Net: NetName=ADIF+2 Pin=Analog Inputs-13
+Added Net: Name=ADIF+2
+Added Pin To Net: NetName=ADIF-1 Pin=Analog Inputs-24
+Added Net: Name=ADIF-1
+Added Pin To Net: NetName=ADIF-2 Pin=Analog Inputs-26
+Added Net: Name=ADIF-2
+Added Pin To Net: NetName=AIN1 Pin=Analog Inputs-1
+Added Pin To Net: NetName=AIN1 Pin=R1_F1-1
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=Analog Inputs-3
+Added Pin To Net: NetName=AIN2 Pin=R1_F2-1
+Added Net: Name=AIN2
+Added Pin To Net: NetName=AIN3 Pin=Analog Inputs-4
+Added Pin To Net: NetName=AIN3 Pin=R1_F3-1
+Added Net: Name=AIN3
+Added Pin To Net: NetName=AIN4 Pin=Analog Inputs-6
+Added Pin To Net: NetName=AIN4 Pin=R1_F4-1
+Added Net: Name=AIN4
+Added Pin To Net: NetName=AIN5 Pin=Analog Inputs-7
+Added Pin To Net: NetName=AIN5 Pin=R1_F5-1
+Added Net: Name=AIN5
+Added Pin To Net: NetName=AIN6 Pin=Analog Inputs-9
+Added Pin To Net: NetName=AIN6 Pin=R1_F6-1
+Added Net: Name=AIN6
+Add Class Member: Failed to add class member : Component 3.3V LVR AZ1117CH2-3.3TRG1
+Add Class Member: Failed to add class member : Component 5V LVR AZ1117CH2-5.0TRG1
