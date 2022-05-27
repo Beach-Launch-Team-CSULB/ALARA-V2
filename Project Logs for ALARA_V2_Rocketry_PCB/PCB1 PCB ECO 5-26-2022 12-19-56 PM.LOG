@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=A RED2 Pin=MCU-142
+Removed Pin From Net: NetName=A GRN2 Pin=MCU-143
+Removed Pin From Net: NetName=A BLU2 Pin=MCU-144
+Added Pin To Net: NetName=A RED2 Pin=MCU-9
+Added Pin To Net: NetName=A GRN2 Pin=MCU-10
+Added Pin To Net: NetName=A BLU2 Pin=MCU-11

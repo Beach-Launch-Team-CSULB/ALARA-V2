@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=MUX S0 Pin=MCU-99
+Added Pin To Net: NetName=MUX S1 Pin=MCU-100
+Added Pin To Net: NetName=MUX S2 Pin=MCU-101
+Added Pin To Net: NetName=MUX OE Pin=MCU-102
