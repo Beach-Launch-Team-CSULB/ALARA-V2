@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NRF CE Pin=MCU-66
+Removed Pin From Net: NetName=NRF IRQ Pin=MCU-67
+Added Pin To Net: NetName=NRF IRQ Pin=MCU-54
+Added Pin To Net: NetName=LoRa INT Pin=MCU-66
+Added Pin To Net: NetName=NRF CE Pin=MCU-67

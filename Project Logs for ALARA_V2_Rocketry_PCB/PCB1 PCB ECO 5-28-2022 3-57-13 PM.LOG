@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LoRa INT Pin=MCU-68
+Removed Pin From Net: NetName=LoRa CSN Pin=MCU-117
+Removed Pin From Net: NetName=LoRa RST Pin=MCU-118
+Removed Pin From Net: NetName=NRF CSN Pin=MCU-119
+Removed Pin From Net: NetName=NRF CE Pin=MCU-120
+Added Pin To Net: NetName=GPS INT Pin=MCU-13
+Added Pin To Net: NetName=GPS RST Pin=MCU-14
+Added Pin To Net: NetName=LoRa CSN Pin=MCU-47
+Added Pin To Net: NetName=LoRa RST Pin=MCU-55
+Added Pin To Net: NetName=NRF CE Pin=MCU-66
+Added Pin To Net: NetName=NRF CSN Pin=MCU-68

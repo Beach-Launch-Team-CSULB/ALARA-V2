@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NRF IRQ Pin=MCU-67
+Added Pin To Net: NetName=LoRa INT Pin=MCU-68
+Added Pin To Net: NetName=LoRa CSN Pin=MCU-117
+Added Pin To Net: NetName=LoRa RST Pin=MCU-118
+Added Pin To Net: NetName=NRF CSN Pin=MCU-119
+Added Pin To Net: NetName=NRF CE Pin=MCU-120

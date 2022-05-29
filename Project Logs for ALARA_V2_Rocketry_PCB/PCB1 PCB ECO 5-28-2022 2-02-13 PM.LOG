@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=RS485 D Pin=MCU-75
+Added Pin To Net: NetName=RS485 R Pin=MCU-76
+Added Pin To Net: NetName=CAN INTN0 Pin=MCU-77
+Added Pin To Net: NetName=CAN CS Pin=MCU-78
+Added Pin To Net: NetName=CAN INTN1 Pin=MCU-79
+Added Pin To Net: NetName=CAN INTN Pin=MCU-80
+Added Pin To Net: NetName=CAN CLKO Pin=MCU-87
