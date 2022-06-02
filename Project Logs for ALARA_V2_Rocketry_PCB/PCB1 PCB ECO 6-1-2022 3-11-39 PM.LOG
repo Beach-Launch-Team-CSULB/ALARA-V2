@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=IMU2 CSBG Pin=MCU-89
+Added Pin To Net: NetName=IMU2 CSBA Pin=MCU-90
+Added Member To Class: ClassName=Sheet1 Member=Component C401 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C403 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C404 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C405 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C406 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C407 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component R402 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R403 0603

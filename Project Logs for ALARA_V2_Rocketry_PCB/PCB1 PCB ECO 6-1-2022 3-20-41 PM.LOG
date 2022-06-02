@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=IMU1 RST Pin=IMU1-11
+Added Pin To Net: NetName=IMU1 RST Pin=MCU-60
+Added Pin To Net: NetName=IMU1 RST Pin=R405-2
+Added Net: Name=IMU1 RST
