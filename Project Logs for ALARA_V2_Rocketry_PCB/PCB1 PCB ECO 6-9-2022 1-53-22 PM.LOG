@@ -1,0 +1,303 @@
+Removed Pin From Net: NetName=BAT+ Pin=BUCK-1
+Removed Pin From Net: NetName=BAT+ Pin=C101-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H1-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H2-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H3-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H4-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H5-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H6-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H8-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H9-1
+Removed Pin From Net: NetName=BAT+ Pin=D1_H10-1
+Removed Pin From Net: NetName=BAT+ Pin=J1-1
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-2
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-4
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-6
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-8
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-10
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-12
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-14
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-16
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-18
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-20
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-27
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-29
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-31
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-33
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-35
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-37
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-39
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-41
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-43
+Removed Pin From Net: NetName=BAT+ Pin=Primary Connector-45
+Removed Pin From Net: NetName=BAT+ Pin=R3_H1-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H2-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H3-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H4-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H5-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H6-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H8-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H9-2
+Removed Pin From Net: NetName=BAT+ Pin=R3_H10-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H1-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H2-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H3-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H4-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H5-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H6-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H8-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H9-2
+Removed Pin From Net: NetName=BAT+ Pin=R4_H10-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H1-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H2-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H3-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H4-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H5-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H6-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H8-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H9-2
+Removed Pin From Net: NetName=BAT+ Pin=R7_H10-2
+Removed Pin From Net: NetName=BAT+ Pin=R101-2
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL1
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL2
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL3
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL4
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL5
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL6
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL7
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL8
+Added Component: Designator=PTC_PTC1(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC2(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC3(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC4(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC5(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC6(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC7(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC8(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC9(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=PTC_PTC10(FUSC5141X160N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//2016L150_33DR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "576-2016L150/33DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-2016L150%2F33DR"; VariantName = "[No Variations]"
+Added Component: Designator=R602(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R603(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C301-1
+Added Pin To Net: NetName=3.3V Pin=C301-2
+Added Pin To Net: NetName=NRF CSN Pin=R602-2
+Added Pin To Net: NetName=LoRa CSN Pin=R603-2
+Added Pin To Net: NetName=3.3V Pin=RS-485-1
+Added Pin To Net: NetName=GND Pin=RS-485-4
+Change Net Name : Old Net Name=BAT+ New Net Name=BAT+7
+Added Pin To Net: NetName=3.3 Pin=R602-1
+Added Pin To Net: NetName=3.3 Pin=R603-1
+Added Net: Name=3.3
+Added Pin To Net: NetName=BAT+1 Pin=D1_H1-1
+Added Pin To Net: NetName=BAT+1 Pin=R3_H1-2
+Added Pin To Net: NetName=BAT+1 Pin=R4_H1-2
+Added Pin To Net: NetName=BAT+1 Pin=R7_H1-2
+Added Net: Name=BAT+1
+Added Pin To Net: NetName=BAT+2 Pin=D1_H2-1
+Added Pin To Net: NetName=BAT+2 Pin=R3_H2-2
+Added Pin To Net: NetName=BAT+2 Pin=R4_H2-2
+Added Pin To Net: NetName=BAT+2 Pin=R7_H2-2
+Added Net: Name=BAT+2
+Added Pin To Net: NetName=BAT+3 Pin=D1_H3-1
+Added Pin To Net: NetName=BAT+3 Pin=R3_H3-2
+Added Pin To Net: NetName=BAT+3 Pin=R4_H3-2
+Added Pin To Net: NetName=BAT+3 Pin=R7_H3-2
+Added Net: Name=BAT+3
+Added Pin To Net: NetName=BAT+4 Pin=D1_H4-1
+Added Pin To Net: NetName=BAT+4 Pin=R3_H4-2
+Added Pin To Net: NetName=BAT+4 Pin=R4_H4-2
+Added Pin To Net: NetName=BAT+4 Pin=R7_H4-2
+Added Net: Name=BAT+4
+Added Pin To Net: NetName=BAT+5 Pin=D1_H5-1
+Added Pin To Net: NetName=BAT+5 Pin=R3_H5-2
+Added Pin To Net: NetName=BAT+5 Pin=R4_H5-2
+Added Pin To Net: NetName=BAT+5 Pin=R7_H5-2
+Added Net: Name=BAT+5
+Added Pin To Net: NetName=BAT+6 Pin=D1_H6-1
+Added Pin To Net: NetName=BAT+6 Pin=R3_H6-2
+Added Pin To Net: NetName=BAT+6 Pin=R4_H6-2
+Added Pin To Net: NetName=BAT+6 Pin=R7_H6-2
+Added Net: Name=BAT+6
+Added Pin To Net: NetName=BAT+8 Pin=D1_H8-1
+Added Pin To Net: NetName=BAT+8 Pin=R3_H8-2
+Added Pin To Net: NetName=BAT+8 Pin=R4_H8-2
+Added Pin To Net: NetName=BAT+8 Pin=R7_H8-2
+Added Net: Name=BAT+8
+Added Pin To Net: NetName=BAT+9 Pin=D1_H9-1
+Added Pin To Net: NetName=BAT+9 Pin=R3_H9-2
+Added Pin To Net: NetName=BAT+9 Pin=R4_H9-2
+Added Pin To Net: NetName=BAT+9 Pin=R7_H9-2
+Added Net: Name=BAT+9
+Added Pin To Net: NetName=BAT+10 Pin=D1_H10-1
+Added Pin To Net: NetName=BAT+10 Pin=R3_H10-2
+Added Pin To Net: NetName=BAT+10 Pin=R4_H10-2
+Added Pin To Net: NetName=BAT+10 Pin=R7_H10-2
+Added Net: Name=BAT+10
+Added Pin To Net: NetName=BAT+ Pin=BUCK-1
+Added Pin To Net: NetName=BAT+ Pin=C101-1
+Added Pin To Net: NetName=BAT+ Pin=J1-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC1-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC2-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC3-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC4-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC5-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC6-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC7-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC8-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC9-1
+Added Pin To Net: NetName=BAT+ Pin=PTC_PTC10-1
+Added Pin To Net: NetName=BAT+ Pin=R101-2
+Added Net: Name=BAT+
+Added Pin To Net: NetName=HPO BAT+1 Pin=Primary Connector-2
+Added Pin To Net: NetName=HPO BAT+1 Pin=Primary Connector-27
+Added Pin To Net: NetName=HPO BAT+1 Pin=PTC_PTC1-2
+Added Net: Name=HPO BAT+1
+Added Pin To Net: NetName=HPO BAT+2 Pin=Primary Connector-4
+Added Pin To Net: NetName=HPO BAT+2 Pin=Primary Connector-29
+Added Pin To Net: NetName=HPO BAT+2 Pin=PTC_PTC2-2
+Added Net: Name=HPO BAT+2
+Added Pin To Net: NetName=HPO BAT+3 Pin=Primary Connector-6
+Added Pin To Net: NetName=HPO BAT+3 Pin=Primary Connector-31
+Added Pin To Net: NetName=HPO BAT+3 Pin=PTC_PTC3-2
+Added Net: Name=HPO BAT+3
+Added Pin To Net: NetName=HPO BAT+4 Pin=Primary Connector-8
+Added Pin To Net: NetName=HPO BAT+4 Pin=Primary Connector-33
+Added Pin To Net: NetName=HPO BAT+4 Pin=PTC_PTC4-2
+Added Net: Name=HPO BAT+4
+Added Pin To Net: NetName=HPO BAT+5 Pin=Primary Connector-10
+Added Pin To Net: NetName=HPO BAT+5 Pin=Primary Connector-35
+Added Pin To Net: NetName=HPO BAT+5 Pin=PTC_PTC5-2
+Added Net: Name=HPO BAT+5
+Added Pin To Net: NetName=HPO BAT+6 Pin=Primary Connector-12
+Added Pin To Net: NetName=HPO BAT+6 Pin=Primary Connector-37
+Added Pin To Net: NetName=HPO BAT+6 Pin=PTC_PTC6-2
+Added Net: Name=HPO BAT+6
+Added Pin To Net: NetName=HPO BAT+7 Pin=Primary Connector-14
+Added Pin To Net: NetName=HPO BAT+7 Pin=Primary Connector-39
+Added Pin To Net: NetName=HPO BAT+7 Pin=PTC_PTC7-2
+Added Net: Name=HPO BAT+7
+Added Pin To Net: NetName=HPO BAT+8 Pin=Primary Connector-16
+Added Pin To Net: NetName=HPO BAT+8 Pin=Primary Connector-41
+Added Pin To Net: NetName=HPO BAT+8 Pin=PTC_PTC8-2
+Added Net: Name=HPO BAT+8
+Added Pin To Net: NetName=HPO BAT+9 Pin=Primary Connector-18
+Added Pin To Net: NetName=HPO BAT+9 Pin=Primary Connector-43
+Added Pin To Net: NetName=HPO BAT+9 Pin=PTC_PTC9-2
+Added Net: Name=HPO BAT+9
+Added Pin To Net: NetName=HPO BAT+10 Pin=Primary Connector-20
+Added Pin To Net: NetName=HPO BAT+10 Pin=Primary Connector-45
+Added Pin To Net: NetName=HPO BAT+10 Pin=PTC_PTC10-2
+Added Net: Name=HPO BAT+10
+Added Class: Name=F1
+Added Class: Name=F2
+Added Class: Name=F3
+Added Class: Name=F4
+Added Class: Name=F5
+Added Class: Name=F6
+Added Class: Name=F7
+Added Class: Name=F8
+Added Member To Class: ClassName=Sheet1 Member=Component F1 0451001.MRL
+Added Member To Class: ClassName=PTC1 Member=Component PTC_PTC1 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC2 Member=Component PTC_PTC2 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC3 Member=Component PTC_PTC3 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC4 Member=Component PTC_PTC4 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC5 Member=Component PTC_PTC5 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC6 Member=Component PTC_PTC6 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC7 Member=Component PTC_PTC7 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC8 Member=Component PTC_PTC8 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC9 Member=Component PTC_PTC9 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=PTC10 Member=Component PTC_PTC10 (PTC) 2016L150_33DR
+Added Member To Class: ClassName=Sheet1 Member=Component R602 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R603 0603
+Added Member To Class: ClassName=Analog Signal Filter Member=F1 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F2 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F3 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F4 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F5 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F6 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F7 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F8 (Analog Signal Filter.SchDoc)
+Added Room: Name=PTC1
+Added Room: Name=PTC2
+Added Room: Name=PTC3
+Added Room: Name=PTC4
+Added Room: Name=PTC5
+Added Room: Name=PTC6
+Added Room: Name=PTC7
+Added Room: Name=PTC8
+Added Room: Name=PTC9
+Added Room: Name=PTC10

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=HPO BAT+2 Pin=Primary Connector-4
+Removed Pin From Net: NetName=HPO BAT+3 Pin=Primary Connector-6
+Removed Pin From Net: NetName=HPO BAT+4 Pin=Primary Connector-8
+Removed Pin From Net: NetName=HPO BAT+5 Pin=Primary Connector-10
+Removed Pin From Net: NetName=HPO BAT+2 Pin=Primary Connector-29
+Removed Pin From Net: NetName=HPO BAT+3 Pin=Primary Connector-31
+Removed Pin From Net: NetName=HPO BAT+4 Pin=Primary Connector-33
+Removed Pin From Net: NetName=HPO BAT+5 Pin=Primary Connector-35
+Removed Pin From Net: NetName=BAT+ Pin=PTC_PTC6-1
+Removed Pin From Net: NetName=BAT+ Pin=PTC_PTC7-1
+Removed Pin From Net: NetName=BAT+ Pin=PTC_PTC8-1
+Removed Pin From Net: NetName=BAT+ Pin=PTC_PTC9-1
+Removed Pin From Net: NetName=BAT+ Pin=PTC_PTC10-1
+Removed Member From Class: ClassName=PTC Fuse Member=PTC6
+Removed Member From Class: ClassName=PTC Fuse Member=PTC7
+Removed Member From Class: ClassName=PTC Fuse Member=PTC8
+Removed Member From Class: ClassName=PTC Fuse Member=PTC9
+Removed Member From Class: ClassName=PTC Fuse Member=PTC10
+Added Pin To Net: NetName=HPO BAT+1 Pin=Primary Connector-4
+Added Pin To Net: NetName=HPO BAT+2 Pin=Primary Connector-6
+Added Pin To Net: NetName=HPO BAT+2 Pin=Primary Connector-8
+Added Pin To Net: NetName=HPO BAT+3 Pin=Primary Connector-10
+Added Pin To Net: NetName=HPO BAT+3 Pin=Primary Connector-12
+Added Pin To Net: NetName=HPO BAT+4 Pin=Primary Connector-14
+Added Pin To Net: NetName=HPO BAT+4 Pin=Primary Connector-16
+Added Pin To Net: NetName=HPO BAT+5 Pin=Primary Connector-18
+Added Pin To Net: NetName=HPO BAT+5 Pin=Primary Connector-20
+Added Pin To Net: NetName=HPO BAT+1 Pin=Primary Connector-29
+Added Pin To Net: NetName=HPO BAT+2 Pin=Primary Connector-31
+Added Pin To Net: NetName=HPO BAT+2 Pin=Primary Connector-33
+Added Pin To Net: NetName=HPO BAT+3 Pin=Primary Connector-35
+Added Pin To Net: NetName=HPO BAT+3 Pin=Primary Connector-37
+Added Pin To Net: NetName=HPO BAT+4 Pin=Primary Connector-39
+Added Pin To Net: NetName=HPO BAT+4 Pin=Primary Connector-41
+Added Pin To Net: NetName=HPO BAT+5 Pin=Primary Connector-43
+Added Pin To Net: NetName=HPO BAT+5 Pin=Primary Connector-45
