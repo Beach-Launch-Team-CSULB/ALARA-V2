@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CAN INTN0 Pin=MCU-77
+Removed Pin From Net: NetName=CAN CS Pin=MCU-78
+Removed Pin From Net: NetName=CAN INTN1 Pin=MCU-79
+Removed Pin From Net: NetName=CAN INTN Pin=MCU-80
+Change Component Designator: OldDesignator=C? NewDesignator=C503
+Added Pin To Net: NetName=LoRa CSN Pin=MCU-77
+Added Pin To Net: NetName=LoRa INT Pin=MCU-79
+Added Pin To Net: NetName=LoRa RST Pin=MCU-80

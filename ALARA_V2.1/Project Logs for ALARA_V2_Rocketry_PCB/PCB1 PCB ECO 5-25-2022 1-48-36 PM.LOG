@@ -1,0 +1,8 @@
+Added Component: Designator=C603(CAPC1608X95X40ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y104KXQCW1BC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C603-1
+Added Pin To Net: NetName=5V Pin=C603-2
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3V Reg AZ1117CH2-3.3TRG1
+Added Member To Class: ClassName=B Member=Component C1 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C603 10uF

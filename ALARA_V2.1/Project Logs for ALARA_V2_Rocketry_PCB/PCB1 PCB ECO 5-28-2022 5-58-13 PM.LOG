@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=DIO1 Pin=MCU-123
+Added Pin To Net: NetName=DIO1 Pin=Primary Connector-21
+Added Net: Name=DIO1
+Added Pin To Net: NetName=DIO2 Pin=MCU-124
+Added Pin To Net: NetName=DIO2 Pin=Primary Connector-46
+Added Net: Name=DIO2
+Added Pin To Net: NetName=DIO3 Pin=Analog Inputs-13
+Added Pin To Net: NetName=DIO3 Pin=MCU-48
+Added Net: Name=DIO3
+Added Pin To Net: NetName=DIO4 Pin=Analog Inputs-26
+Added Pin To Net: NetName=DIO4 Pin=MCU-49
+Added Net: Name=DIO4

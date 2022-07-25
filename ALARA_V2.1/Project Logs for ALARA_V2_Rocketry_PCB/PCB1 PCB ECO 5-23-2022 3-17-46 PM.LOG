@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS3
+Change Component Designator: OldDesignator=DS3 NewDesignator=DS2
+Add Component: Footprint Not Found QFN50P700X700X100-49N-D
+Change Net Name : Old Net Name=NetDS2_2 New Net Name=NetDS3_2
+Change Net Name : Old Net Name=NetDS3_2 New Net Name=NetDS2_2
+Added Member To Class: ClassName=Sheet1 Member=Component IC? MKL26Z64VFT4
+Added Member To Class: ClassName=Sheet1 Member=Component IC? AZ1117CH2-3.3TRG1

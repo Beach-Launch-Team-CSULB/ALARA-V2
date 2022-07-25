@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=ADDR0 Pin=JP H_J1-2
+Added Pin To Net: NetName=ADDR1 Pin=JP H_J2-2
+Added Pin To Net: NetName=ADDR2 Pin=JP H_J3-2
+Added Pin To Net: NetName=ADDR3 Pin=JP H_J4-2
+Added Pin To Net: NetName=ADDR0 Pin=JP L_J1-1
+Added Pin To Net: NetName=ADDR1 Pin=JP L_J2-1
+Added Pin To Net: NetName=ADDR2 Pin=JP L_J3-1
+Added Pin To Net: NetName=ADDR3 Pin=JP L_J4-1

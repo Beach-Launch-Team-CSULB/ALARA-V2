@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=A GRN1 Pin=D?_L1-5
+Removed Pin From Net: NetName=A RED1 Pin=D?_L1-6
+Removed Pin From Net: NetName=A GRN2 Pin=D?_L2-5
+Removed Pin From Net: NetName=A RED2 Pin=D?_L2-6
+Removed Member From Class: ClassName=L1 Member=D?_L1
+Change Component Designator: OldDesignator=D?_L1 NewDesignator=D_L1
+Change Component Designator: OldDesignator=D?_L2 NewDesignator=D_L2
+Added Pin To Net: NetName=A GRN1 Pin=D_L1-5
+Added Pin To Net: NetName=A RED1 Pin=D_L1-6
+Added Pin To Net: NetName=A GRN2 Pin=D_L2-5
+Added Pin To Net: NetName=A RED2 Pin=D_L2-6
+Change Net Name : Old Net Name=NetD?_L1_3 New Net Name=NetD_L1_3
+Change Net Name : Old Net Name=NetD?_L2_3 New Net Name=NetD_L2_3
+Added Pin To Net: NetName=NetD_L1_1 Pin=D_L1-1
+Added Pin To Net: NetName=NetD_L1_1 Pin=R3_L1-1
+Added Net: Name=NetD_L1_1
+Added Pin To Net: NetName=NetD_L1_2 Pin=D_L1-2
+Added Pin To Net: NetName=NetD_L1_2 Pin=R2_L1-1
+Added Net: Name=NetD_L1_2
+Added Pin To Net: NetName=NetD_L2_1 Pin=D_L2-1
+Added Pin To Net: NetName=NetD_L2_1 Pin=R3_L2-1
+Added Net: Name=NetD_L2_1
+Added Pin To Net: NetName=NetD_L2_2 Pin=D_L2-2
+Added Pin To Net: NetName=NetD_L2_2 Pin=R2_L2-1
+Added Net: Name=NetD_L2_2
+Added Member To Class: ClassName=L1 Member=Component D_L1 (DA) CLY6D-FKC-CK1N1D1BB7D3D3

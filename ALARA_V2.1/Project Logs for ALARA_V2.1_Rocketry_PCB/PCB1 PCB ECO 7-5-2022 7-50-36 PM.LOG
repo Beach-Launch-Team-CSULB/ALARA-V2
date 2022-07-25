@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=DEMUX-5
+Added Pin To Net: NetName=ADDR IN Pin=DEMUX-5
+Added Pin To Net: NetName=ADDR IN Pin=MCU-15
+Added Net: Name=ADDR IN

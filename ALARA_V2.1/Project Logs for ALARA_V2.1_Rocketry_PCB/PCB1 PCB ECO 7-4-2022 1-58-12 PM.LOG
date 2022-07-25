@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ADDR S0 Pin=MCU-9
+Removed Pin From Net: NetName=ADDR S1 Pin=MCU-10
+Removed Pin From Net: NetName=ADDR S2 Pin=MCU-11
+Removed Pin From Net: NetName=ADDR OEN Pin=MCU-12
+Added Pin To Net: NetName=ADDR OEN Pin=MCU-9
+Added Pin To Net: NetName=ADDR S2 Pin=MCU-10
+Added Pin To Net: NetName=ADDR S1 Pin=MCU-11
+Added Pin To Net: NetName=ADDR S0 Pin=MCU-12

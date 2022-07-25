@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GPS TP Pin=MCU-13
+Removed Pin From Net: NetName=GPS INT Pin=MCU-14
+Removed Pin From Net: NetName=CAN2 CLKO Pin=MCU-64
+Removed Pin From Net: NetName=CAN2 INTN Pin=MCU-65
+Removed Pin From Net: NetName=CAN2 CSN Pin=MCU-66
+Removed Pin From Net: NetName=CAN2 INT0N Pin=MCU-67
+Removed Pin From Net: NetName=CAN2 INT1N Pin=MCU-68
+Removed Pin From Net: NetName=CAN1 INTN Pin=MCU-77
+Removed Pin From Net: NetName=CAN1 CLKO Pin=MCU-79
+Removed Pin From Net: NetName=CAN1 CSN Pin=MCU-80
+Removed Pin From Net: NetName=CAN1 INT1N Pin=MCU-81
+Removed Pin From Net: NetName=CAN1 INT0N Pin=MCU-82
+Removed Pin From Net: NetName=NRF IRQ Pin=MCU-95
+Removed Pin From Net: NetName=NRF CE Pin=MCU-96
+Removed Pin From Net: NetName=LoRa INT Pin=MCU-103
+Removed Pin From Net: NetName=LoRa RST Pin=MCU-104
+Removed Pin From Net: NetName=LoRa CSN Pin=MCU-105
+Removed Pin From Net: NetName=ACC CSN Pin=MCU-106
+Removed Pin From Net: NetName=BPS CSN Pin=MCU-109
+Removed Pin From Net: NetName=NOR2 CS Pin=MCU-114
+Removed Pin From Net: NetName=NOR1 CS Pin=MCU-115
+Removed Pin From Net: NetName=NRF CSN Pin=MCU-127
+Removed Pin From Net: NetName=ACC INT1 Pin=MCU-129
+Removed Pin From Net: NetName=ACC INT2 Pin=MCU-130
+Removed Pin From Net: NetName=ACC TRIG Pin=MCU-131
+Removed Pin From Net: NetName=BUZZ Pin=MCU-144
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component FB5 BLM15HD102SN1D
+Added Member To Class: ClassName=Sheet1 Member=Component FB7 BLM15HD102SN1D
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component U? ILD207T
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

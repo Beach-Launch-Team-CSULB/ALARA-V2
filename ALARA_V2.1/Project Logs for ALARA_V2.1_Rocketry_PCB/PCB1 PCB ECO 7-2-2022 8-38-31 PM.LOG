@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3.3V Pin=D_L3-4
+Removed Pin From Net: NetName=3.3V Pin=D_L3-5
+Removed Pin From Net: NetName=3.3V Pin=D_L3-6
+Removed Pin From Net: NetName=3.3V Pin=D_L4-4
+Removed Pin From Net: NetName=3.3V Pin=D_L4-5
+Removed Pin From Net: NetName=3.3V Pin=D_L4-6
+Removed Pin From Net: NetName=3.3V Pin=D_L5-4
+Removed Pin From Net: NetName=3.3V Pin=D_L5-5
+Removed Pin From Net: NetName=3.3V Pin=D_L5-6
+Removed Member From Class: ClassName=RGB LED Member=L3
+Removed Member From Class: ClassName=RGB LED Member=L4
+Removed Member From Class: ClassName=RGB LED Member=L5

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CAN CLKO Pin=CAN C-3
+Added Pin To Net: NetName=CANF INTN1 Pin=CAN C-8
+Added Pin To Net: NetName=CANF INTN0 Pin=CAN C-9
+Added Pin To Net: NetName=CANF CS Pin=CAN C-13
+Added Pin To Net: NetName=CANF CS Pin=R2-1
+Change Net Name : Old Net Name=CAN INTN New Net Name=CANF INTN
+Added Pin To Net: NetName=CANF CLKO Pin=CAN C-3
+Added Net: Name=CANF CLKO

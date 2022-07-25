@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CANF CS Pin=MCU-68
+Added Net: Name=CANF CS
+Added Pin To Net: NetName=CANF INTN0 Pin=MCU-67
+Added Net: Name=CANF INTN0
+Added Pin To Net: NetName=CANF INTN1 Pin=MCU-55
+Added Net: Name=CANF INTN1

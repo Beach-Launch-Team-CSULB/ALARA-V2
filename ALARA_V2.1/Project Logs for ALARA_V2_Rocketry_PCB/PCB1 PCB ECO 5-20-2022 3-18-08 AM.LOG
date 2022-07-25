@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BAT+ Pin=J1-1
+Removed Pin From Net: NetName=BAT+ Pin=P?-2
+Removed Pin From Net: NetName=BAT+ Pin=R101-2
+Change Net Name : Old Net Name=BAT+ New Net Name=BULLSHIT
+Added Pin To Net: NetName=BAT+ Pin=J1-1
+Added Pin To Net: NetName=BAT+ Pin=P?-2
+Added Pin To Net: NetName=BAT+ Pin=R101-2
+Added Net: Name=BAT+
+Added Member To Class: ClassName=Sheet1 Member=Component High Power Output G125-MH12005M4P
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

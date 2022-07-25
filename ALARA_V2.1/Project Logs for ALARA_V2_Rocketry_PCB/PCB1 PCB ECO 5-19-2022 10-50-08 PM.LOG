@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=MUX_B[1,8]1 Pin=NOR?_1-1
+Added Pin To Net: NetName=MUX_B[1,8]1 Pin=R51_1-2
+Added Net: Name=MUX_B[1,8]1
+Added Pin To Net: NetName=MUX_B[1,8]2 Pin=NOR?_2-1
+Added Pin To Net: NetName=MUX_B[1,8]2 Pin=R51_2-2
+Added Net: Name=MUX_B[1,8]2
+Added Pin To Net: NetName=MUX_B[1,8]3 Pin=NOR?_3-1
+Added Pin To Net: NetName=MUX_B[1,8]3 Pin=R51_3-2
+Added Net: Name=MUX_B[1,8]3
+Added Pin To Net: NetName=MUX_B[1,8]4 Pin=NOR?_4-1
+Added Pin To Net: NetName=MUX_B[1,8]4 Pin=R51_4-2
+Added Net: Name=MUX_B[1,8]4
+Added Pin To Net: NetName=MUX_B[1,8]5 Pin=NOR?_5-1
+Added Pin To Net: NetName=MUX_B[1,8]5 Pin=R51_5-2
+Added Net: Name=MUX_B[1,8]5
+Added Pin To Net: NetName=MUX_B[1,8]6 Pin=NOR?_6-1
+Added Pin To Net: NetName=MUX_B[1,8]6 Pin=R51_6-2
+Added Net: Name=MUX_B[1,8]6
+Added Pin To Net: NetName=MUX_B[1,8]7 Pin=NOR?_7-1
+Added Pin To Net: NetName=MUX_B[1,8]7 Pin=R51_7-2
+Added Net: Name=MUX_B[1,8]7
+Added Pin To Net: NetName=MUX_B[1,8]8 Pin=NOR?_8-1
+Added Pin To Net: NetName=MUX_B[1,8]8 Pin=R51_8-2
+Added Net: Name=MUX_B[1,8]8
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

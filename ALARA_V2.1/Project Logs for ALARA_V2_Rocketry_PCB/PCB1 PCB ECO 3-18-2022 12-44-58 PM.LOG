@@ -1,0 +1,166 @@
+Removed Pin From Net: NetName=NetC35_1 Pin=C?-1
+Change Component Designator: OldDesignator=CAN? NewDesignator=CANT1
+Change Component Designator: OldDesignator=CAN? NewDesignator=CANT2
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found SON65P300X450X90-15N-D
+Add Component: Footprint Not Found SON65P300X450X90-15N-D
+Add Component: Footprint Not Found FP-83611-9006-MFG
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C38-1
+Add Pin To Net: Unknown Pin: Pin C38-2
+Add Pin To Net: Unknown Pin: Pin C45-1
+Add Pin To Net: Unknown Pin: Pin C45-2
+Add Pin To Net: Unknown Pin: Pin C46-1
+Add Pin To Net: Unknown Pin: Pin C46-2
+Add Pin To Net: Unknown Pin: Pin C47-1
+Add Pin To Net: Unknown Pin: Pin C47-2
+Add Pin To Net: Unknown Pin: Pin C48-1
+Add Pin To Net: Unknown Pin: Pin C48-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC35_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin CANC1-1
+Add Pin To Net: Unknown Pin: Pin CANC1-2
+Add Pin To Net: Unknown Pin: Pin CANC1-3
+Add Pin To Net: Unknown Pin: Pin CANC1-4
+Add Pin To Net: Unknown Pin: Pin CANC1-7
+Add Pin To Net: Unknown Pin: Pin CANC1-8
+Add Pin To Net: Unknown Pin: Pin CANC1-9
+Add Pin To Net: Unknown Pin: Pin CANC1-10
+Add Pin To Net: Unknown Pin: Pin CANC1-11
+Add Pin To Net: Unknown Pin: Pin CANC1-12
+Add Pin To Net: Unknown Pin: Pin CANC1-13
+Add Pin To Net: Unknown Pin: Pin CANC1-14
+Add Pin To Net: Unknown Pin: Pin CANC1-15
+Add Pin To Net: Unknown Pin: Pin CANC2-1
+Add Pin To Net: Unknown Pin: Pin CANC2-2
+Add Pin To Net: Unknown Pin: Pin CANC2-3
+Add Pin To Net: Unknown Pin: Pin CANC2-4
+Add Pin To Net: Unknown Pin: Pin CANC2-5
+Add Pin To Net: Unknown Pin: Pin CANC2-7
+Add Pin To Net: Unknown Pin: Pin CANC2-8
+Add Pin To Net: Unknown Pin: Pin CANC2-9
+Add Pin To Net: Unknown Pin: Pin CANC2-10
+Add Pin To Net: Unknown Pin: Pin CANC2-11
+Add Pin To Net: Unknown Pin: Pin CANC2-12
+Add Pin To Net: Unknown Pin: Pin CANC2-13
+Add Pin To Net: Unknown Pin: Pin CANC2-14
+Add Pin To Net: Unknown Pin: Pin CANC2-15
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Class Member: Failed to add class member : Component C4 10uF
+Add Class Member: Failed to add class member : Component C6 100nF
+Add Class Member: Failed to add class member : Component C7 100nF
+Add Class Member: Failed to add class member : Component C9 10uF
+Add Class Member: Failed to add class member : Component C11 22uF
+Add Class Member: Failed to add class member : Component C12 2.2uF
+Add Class Member: Failed to add class member : Component C20 10uF
+Add Class Member: Failed to add class member : Component C21 100nF
+Add Class Member: Failed to add class member : Component C22 100nF
+Add Class Member: Failed to add class member : Component C23 100nF
+Add Class Member: Failed to add class member : Component C24 100nF
+Add Class Member: Failed to add class member : Component C25 100nF
+Add Class Member: Failed to add class member : Component C26 100nF
+Add Class Member: Failed to add class member : Component C28 100nF
+Add Class Member: Failed to add class member : Component C29 100nF
+Add Class Member: Failed to add class member : Component C30 100nF
+Add Class Member: Failed to add class member : Component C31 100nF
+Add Class Member: Failed to add class member : Component C35 100nF
+Add Class Member: Failed to add class member : Component C36 22uF
+Add Class Member: Failed to add class member : Component C37 10uF
+Add Class Member: Failed to add class member : Component C38 10uF
+Add Class Member: Failed to add class member : Component C45 100nF
+Add Class Member: Failed to add class member : Component C46 120nF
+Add Class Member: Failed to add class member : Component C47 1uF
+Add Class Member: Failed to add class member : Component C48 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Add Class Member: Failed to add class member : Component CANC1 MCP2517FD-H_JHA
+Add Class Member: Failed to add class member : Component CANC2 MCP2517FD-H_JHA
+Added Member To Class: ClassName=Sheet1 Member=Component CANT1 MCP2542FDT-E/MNY
+Add Class Member: Failed to add class member : Component J2 83611-9006
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component U? SAM-M8
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

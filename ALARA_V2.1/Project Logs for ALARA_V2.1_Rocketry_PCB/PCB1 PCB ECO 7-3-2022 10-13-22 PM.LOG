@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=BUZZ Pin=MCU-81
+Added Pin To Net: NetName=AIN2 Pin=MCU-81
+Added Pin To Net: NetName=AIN1 Pin=MCU-82

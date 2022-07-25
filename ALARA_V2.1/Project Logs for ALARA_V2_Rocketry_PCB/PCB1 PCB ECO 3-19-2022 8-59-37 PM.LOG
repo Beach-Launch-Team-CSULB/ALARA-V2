@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=D? NewDesignator=D11
+Change Component Designator: OldDesignator=D? NewDesignator=D12
+Change Component Designator: OldDesignator=D? NewDesignator=D13
+Change Component Designator: OldDesignator=D? NewDesignator=D14
+Change Component Designator: OldDesignator=D? NewDesignator=D15
+Change Component Designator: OldDesignator=D? NewDesignator=D16
+Change Component Designator: OldDesignator=D? NewDesignator=D17
+Added Pin To Net: NetName=24Vin Pin=D11-1
+Added Pin To Net: NetName=24Vin Pin=D12-1
+Added Pin To Net: NetName=24Vin Pin=D13-1
+Added Pin To Net: NetName=24Vin Pin=D15-1
+Added Pin To Net: NetName=24Vin Pin=D16-1
+Added Pin To Net: NetName=24Vin Pin=D17-1
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component D10 SMA-2
+Added Member To Class: ClassName=Sheet1 Member=Component D11 SMA-2
+Added Member To Class: ClassName=Sheet1 Member=Component D12 SMA-2
+Added Member To Class: ClassName=Sheet1 Member=Component D13 SMA-2
+Added Member To Class: ClassName=Sheet1 Member=Component D15 SMA-2
+Added Member To Class: ClassName=Sheet1 Member=Component D16 SMA-2
+Added Member To Class: ClassName=Sheet1 Member=Component D17 SMA-2
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

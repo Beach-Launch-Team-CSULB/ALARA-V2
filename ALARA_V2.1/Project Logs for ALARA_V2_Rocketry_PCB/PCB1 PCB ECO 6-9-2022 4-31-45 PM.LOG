@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=PTC Fuse Member=PTC1
+Removed Member From Class: ClassName=PTC Fuse Member=PTC2
+Removed Member From Class: ClassName=PTC Fuse Member=PTC3
+Removed Member From Class: ClassName=PTC Fuse Member=PTC4
+Removed Member From Class: ClassName=PTC Fuse Member=PTC5
+Change Component Designator: OldDesignator=PTC_PTC1 NewDesignator=PTC_F1
+Change Component Designator: OldDesignator=PTC_PTC2 NewDesignator=PTC_F2
+Change Component Designator: OldDesignator=PTC_PTC3 NewDesignator=PTC_F3
+Change Component Designator: OldDesignator=PTC_PTC4 NewDesignator=PTC_F4
+Change Component Designator: OldDesignator=PTC_PTC5 NewDesignator=PTC_F5
+Change Class Name : Old Net Name=PTC1 New Net Name=F1
+Change Class Name : Old Net Name=PTC2 New Net Name=F2
+Change Class Name : Old Net Name=PTC3 New Net Name=F3
+Change Class Name : Old Net Name=PTC4 New Net Name=F4
+Change Class Name : Old Net Name=PTC5 New Net Name=F5
+Added Member To Class: ClassName=PTC Fuse Member=F1 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=F2 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=F3 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=F4 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=F5 (PTC Fuse.SchDoc)
+Added Room: Name=F1
+Added Room: Name=F2
+Added Room: Name=F3
+Added Room: Name=F4
+Added Room: Name=F5

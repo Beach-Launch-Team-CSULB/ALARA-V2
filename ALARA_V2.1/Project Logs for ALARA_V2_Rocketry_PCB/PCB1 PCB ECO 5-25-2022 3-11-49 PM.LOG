@@ -1,0 +1,23 @@
+Change Net Name : Old Net Name=CANH New Net Name=CAN_P
+Change Net Name : Old Net Name=CANL New Net Name=CAN_N
+Added Pin To Net: NetName=RS485_RX_N Pin=High Power Output and Bus Connector-50
+Added Pin To Net: NetName=RS485_RX_N Pin=R306-2
+Added Pin To Net: NetName=RS485_RX_N Pin=RS-485-5
+Added Net: Name=RS485_RX_N
+Added Pin To Net: NetName=RS485_RX_P Pin=High Power Output and Bus Connector-25
+Added Pin To Net: NetName=RS485_RX_P Pin=R306-1
+Added Pin To Net: NetName=RS485_RX_P Pin=RS-485-6
+Added Net: Name=RS485_RX_P
+Added Pin To Net: NetName=RS485_TX_N Pin=High Power Output and Bus Connector-49
+Added Pin To Net: NetName=RS485_TX_N Pin=R305-1
+Added Pin To Net: NetName=RS485_TX_N Pin=RS-485-7
+Added Net: Name=RS485_TX_N
+Added Pin To Net: NetName=RS485_TX_P Pin=High Power Output and Bus Connector-24
+Added Pin To Net: NetName=RS485_TX_P Pin=R305-2
+Added Pin To Net: NetName=RS485_TX_P Pin=RS-485-8
+Added Net: Name=RS485_TX_P
+Added Differential Pair: Name=CAN
+Added Differential Pair: Name=RS485_RX
+Added Differential Pair: Name=RS485_TX
+Added Member To Class: ClassName=Sheet1 Member=Component C601 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C603 10uF

@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=CAN0 TRAN NewDesignator=CAN2 TRAN
+Change Net Name : Old Net Name=NetCAN0 TRAN_8 New Net Name=NetCAN2 TRAN_8

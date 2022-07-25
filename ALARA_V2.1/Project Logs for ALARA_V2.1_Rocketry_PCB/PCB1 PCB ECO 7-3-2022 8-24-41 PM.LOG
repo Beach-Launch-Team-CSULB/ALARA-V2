@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NRF CE Pin=MCU-67
+Added Pin To Net: NetName=NRF IRQ Pin=MCU-67
+Added Pin To Net: NetName=ACC CSN Pin=MCU-137
+Added Pin To Net: NetName=ACC TRIG Pin=MCU-138
+Added Pin To Net: NetName=NRF CSN Pin=MCU-140
+Added Pin To Net: NetName=BPS CSN Pin=MCU-141
+Added Pin To Net: NetName=IMU2 CSBG Pin=MCU-142
+Added Pin To Net: NetName=IMU2 CSBA Pin=MCU-143
+Added Pin To Net: NetName=NRF CE Pin=MCU-144

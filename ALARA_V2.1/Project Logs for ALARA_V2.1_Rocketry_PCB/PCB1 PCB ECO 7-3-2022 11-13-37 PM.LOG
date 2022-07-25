@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IMU1 RST Pin=MCU-54
+Added Pin To Net: NetName=IMU1 RST Pin=MCU-47
+Added Pin To Net: NetName=MUX S0 Pin=MCU-99
+Added Pin To Net: NetName=MUX S1 Pin=MCU-100
+Added Pin To Net: NetName=MUX S2 Pin=MCU-101
+Added Pin To Net: NetName=MUX OEN Pin=MCU-102
+Added Pin To Net: NetName=MUX OEN Pin=MUX-7
+Added Pin To Net: NetName=MUX OEN Pin=R501-2
+Added Net: Name=MUX OEN

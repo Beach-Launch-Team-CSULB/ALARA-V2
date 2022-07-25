@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [ALARA_V2.1_Rocketry_PCB.PrjPcb]
+   Generated File[PCB1_Copper_Signal_Top.gbr]
+   Generated File[PCB1_Copper_Signal_1.gbr]
+   Generated File[PCB1_Copper_Signal_2.gbr]
+   Generated File[PCB1_Copper_Signal_3.gbr]
+   Generated File[PCB1_Copper_Signal_4.gbr]
+   Generated File[PCB1_Copper_Signal_Bot.gbr]
+   Generated File[PCB1_Pads_Bot.gbr]
+   Generated File[PCB1_Pads_Top.gbr]
+   Generated File[PCB1_Soldermask_Bot.gbr]
+   Generated File[PCB1_Legend_Top.gbr]
+   Generated File[PCB1_Paste_Top.gbr]
+   Generated File[PCB1_Soldermask_Top.gbr]
+   Generated File[PCB1_Legend_Bot.gbr]
+   Generated File[PCB1_Paste_Bot.gbr]
+   Generated File[PCB1_Profile.gbr]
+   Generated File[PCB1_NPTH_Drill.gbr]
+   Generated File[PCB1_PTH_Drill.gbr]
+   Generated File[PCB1_Drawing_1.gbr]
+   Generated File[PCB1_Drillmap_1.gbr]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 9:57:19 PM On 7/5/2022

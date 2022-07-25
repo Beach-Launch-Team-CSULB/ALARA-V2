@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BPS CSN Pin=MCU-88
+Added Pin To Net: NetName=IMU2 CSBG Pin=MCU-89
+Added Pin To Net: NetName=IMU2 CSBA Pin=MCU-90

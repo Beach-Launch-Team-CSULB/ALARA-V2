@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetOP2_7 Pin=Q2-1
+Removed Pin From Net: NetName=NetOP2_5 Pin=Q2-8
+Removed Pin From Net: NetName=NetOP3_7 Pin=Q3-1
+Removed Pin From Net: NetName=NetOP3_5 Pin=Q3-8
+Removed Pin From Net: NetName=NetOP4_7 Pin=Q4-1
+Removed Pin From Net: NetName=NetOP4_5 Pin=Q4-8
+Removed Pin From Net: NetName=NetOP5_7 Pin=Q5-1
+Removed Pin From Net: NetName=NetOP5_5 Pin=Q5-8
+Removed Pin From Net: NetName=NetOP6_7 Pin=Q6-1
+Removed Pin From Net: NetName=NetOP6_5 Pin=Q6-8
+Removed Pin From Net: NetName=NetOP7_7 Pin=Q7-1
+Removed Pin From Net: NetName=NetOP7_5 Pin=Q7-8
+Removed Pin From Net: NetName=NetOP8_7 Pin=Q8-1
+Removed Pin From Net: NetName=NetOP8_5 Pin=Q8-8
+Removed Pin From Net: NetName=NetOP2_8 Pin=R23-1
+Removed Pin From Net: NetName=NetOP2_6 Pin=R24-1
+Removed Pin From Net: NetName=NetOP3_8 Pin=R33-1
+Removed Pin From Net: NetName=NetOP3_6 Pin=R34-1
+Removed Pin From Net: NetName=NetOP4_8 Pin=R43-1
+Removed Pin From Net: NetName=NetOP4_6 Pin=R44-1
+Removed Pin From Net: NetName=NetOP5_8 Pin=R53-1
+Removed Pin From Net: NetName=NetOP5_6 Pin=R54-1
+Removed Pin From Net: NetName=NetOP6_8 Pin=R63-1
+Removed Pin From Net: NetName=NetOP6_6 Pin=R64-1
+Removed Pin From Net: NetName=NetOP7_8 Pin=R73-1
+Removed Pin From Net: NetName=NetOP7_6 Pin=R74-1
+Removed Pin From Net: NetName=NetOP8_8 Pin=R83-1
+Removed Pin From Net: NetName=NetOP8_6 Pin=R84-1
+Added Pin To Net: NetName=NetOP2_5 Pin=Q2-1
+Added Pin To Net: NetName=NetOP2_7 Pin=Q2-8
+Added Pin To Net: NetName=NetOP3_5 Pin=Q3-1
+Added Pin To Net: NetName=NetOP3_7 Pin=Q3-8
+Added Pin To Net: NetName=NetOP4_5 Pin=Q4-1
+Added Pin To Net: NetName=NetOP4_7 Pin=Q4-8
+Added Pin To Net: NetName=NetOP5_5 Pin=Q5-1
+Added Pin To Net: NetName=NetOP5_7 Pin=Q5-8
+Added Pin To Net: NetName=NetOP6_5 Pin=Q6-1
+Added Pin To Net: NetName=NetOP6_7 Pin=Q6-8
+Added Pin To Net: NetName=NetOP7_5 Pin=Q7-1
+Added Pin To Net: NetName=NetOP7_7 Pin=Q7-8
+Added Pin To Net: NetName=NetOP8_5 Pin=Q8-1
+Added Pin To Net: NetName=NetOP8_7 Pin=Q8-8
+Added Pin To Net: NetName=NetOP2_6 Pin=R23-1
+Added Pin To Net: NetName=NetOP2_8 Pin=R24-1
+Added Pin To Net: NetName=NetOP3_6 Pin=R33-1
+Added Pin To Net: NetName=NetOP3_8 Pin=R34-1
+Added Pin To Net: NetName=NetOP4_6 Pin=R43-1
+Added Pin To Net: NetName=NetOP4_8 Pin=R44-1
+Added Pin To Net: NetName=NetOP5_6 Pin=R53-1
+Added Pin To Net: NetName=NetOP5_8 Pin=R54-1
+Added Pin To Net: NetName=NetOP6_6 Pin=R63-1
+Added Pin To Net: NetName=NetOP6_8 Pin=R64-1
+Added Pin To Net: NetName=NetOP7_6 Pin=R73-1
+Added Pin To Net: NetName=NetOP7_8 Pin=R74-1
+Added Pin To Net: NetName=NetOP8_6 Pin=R83-1
+Added Pin To Net: NetName=NetOP8_8 Pin=R84-1
+Change Net Name : Old Net Name=HPO2 DIG New Net Name=HPO2 PWM
+Change Net Name : Old Net Name=HPO2 PWM New Net Name=HPO2 DIG
+Change Net Name : Old Net Name=HPO3 DIG New Net Name=HPO3 PWM
+Change Net Name : Old Net Name=HPO3 PWM New Net Name=HPO3 DIG
+Change Net Name : Old Net Name=HPO4 DIG New Net Name=HPO4 PWM
+Change Net Name : Old Net Name=HPO4 PWM New Net Name=HPO4 DIG
+Change Net Name : Old Net Name=HPO5 DIG New Net Name=HPO5 PWM
+Change Net Name : Old Net Name=HPO5 PWM New Net Name=HPO5 DIG
+Change Net Name : Old Net Name=HPO6 DIG New Net Name=HPO6 PWM
+Change Net Name : Old Net Name=HPO6 PWM New Net Name=HPO6 DIG
+Change Net Name : Old Net Name=HPO7 DIG New Net Name=HPO7 PWM
+Change Net Name : Old Net Name=HPO7 PWM New Net Name=HPO7 DIG
+Change Net Name : Old Net Name=HPO8 DIG New Net Name=HPO8 PWM
+Change Net Name : Old Net Name=HPO8 PWM New Net Name=HPO8 DIG
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

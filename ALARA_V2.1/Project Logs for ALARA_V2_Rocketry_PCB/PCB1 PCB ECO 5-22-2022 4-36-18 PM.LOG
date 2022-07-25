@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=3.3V Reg-1
+Removed Pin From Net: NetName=3.3V Pin=3.3V Reg-2
+Removed Pin From Net: NetName=Net3.3V Reg_3 Pin=3.3V Reg-3
+Removed Pin From Net: NetName=5V Pin=5V Reg-1
+Removed Pin From Net: NetName=Net3.3V Reg_3 Pin=5V Reg-3
+Removed Pin From Net: NetName=GND Pin=5V Reg-4
+Removed Pin From Net: NetName=NetDS2_2 Pin=R102-1
+Removed Pin From Net: NetName=NetDS3_2 Pin=R103-1
+Removed Member From Class: ClassName=Sheet1 Member=3.3V Reg
+Removed Member From Class: ClassName=Sheet1 Member=5V Reg
+Add Component: Footprint Not Found SOT230P700X180-4N
+Add Component: Footprint Not Found SOT230P700X180-4N
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-1
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-2
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-3
+Add Pin To Net: Unknown Pin: Pin 3.3V LVR-4
+Add Pin To Net: Unknown Pin: Pin 5V LVR-1
+Add Pin To Net: Unknown Pin: Pin 5V LVR-2
+Add Pin To Net: Unknown Pin: Pin 5V LVR-3
+Add Pin To Net: Unknown Pin: Pin 5V LVR-4
+Added Pin To Net: NetName=GND Pin=DS3-1
+Added Pin To Net: NetName=NetDS3_2 Pin=R102-1
+Added Pin To Net: NetName=NetDS2_2 Pin=R103-1
+Change Net Name : Old Net Name=Net3.3V Reg_3 New Net Name=Net3.3V LVR_1
+Add Class Member: Failed to add class member : Component 3.3V LVR AZ1117CH2-3.3TRG1
+Add Class Member: Failed to add class member : Component 5V LVR AZ1117CH2-5.0TRG1

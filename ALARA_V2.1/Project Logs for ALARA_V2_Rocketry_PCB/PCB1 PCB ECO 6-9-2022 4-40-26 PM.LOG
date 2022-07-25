@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL1
+Removed Member From Class: ClassName=PTC Fuse Member=FL1
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL2
+Removed Member From Class: ClassName=PTC Fuse Member=FL2
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL3
+Removed Member From Class: ClassName=PTC Fuse Member=FL3
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL4
+Removed Member From Class: ClassName=PTC Fuse Member=FL4
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL5
+Removed Member From Class: ClassName=PTC Fuse Member=FL5
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL6
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL7
+Removed Member From Class: ClassName=Analog Signal Filter Member=FL8
+Change Component Designator: OldDesignator=PTC_PTC1 NewDesignator=F_PTC1
+Change Component Designator: OldDesignator=PTC_PTC2 NewDesignator=F_PTC2
+Change Component Designator: OldDesignator=PTC_PTC3 NewDesignator=F_PTC3
+Change Component Designator: OldDesignator=PTC_PTC4 NewDesignator=F_PTC4
+Change Component Designator: OldDesignator=PTC_PTC5 NewDesignator=F_PTC5
+Added Class: Name=F6
+Added Class: Name=F7
+Added Class: Name=F8
+Added Class: Name=PTC1
+Added Class: Name=PTC2
+Added Class: Name=PTC3
+Added Class: Name=PTC4
+Added Class: Name=PTC5
+Added Member To Class: ClassName=F1 Member=Component C_F1 (C) 100nF
+Added Member To Class: ClassName=F2 Member=Component C_F2 (C) 100nF
+Added Member To Class: ClassName=F3 Member=Component C_F3 (C) 100nF
+Added Member To Class: ClassName=F4 Member=Component C_F4 (C) 100nF
+Added Member To Class: ClassName=F5 Member=Component C_F5 (C) 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component F1 0451001.MRL
+Added Member To Class: ClassName=F1 Member=Component R1_F1 (R1) 0603
+Added Member To Class: ClassName=F2 Member=Component R1_F2 (R1) 0603
+Added Member To Class: ClassName=F3 Member=Component R1_F3 (R1) 0603
+Added Member To Class: ClassName=F4 Member=Component R1_F4 (R1) 0603
+Added Member To Class: ClassName=F5 Member=Component R1_F5 (R1) 0603
+Added Member To Class: ClassName=F1 Member=Component R2_F1 (R2) 0603
+Added Member To Class: ClassName=F2 Member=Component R2_F2 (R2) 0603
+Added Member To Class: ClassName=F3 Member=Component R2_F3 (R2) 0603
+Added Member To Class: ClassName=F4 Member=Component R2_F4 (R2) 0603
+Added Member To Class: ClassName=F5 Member=Component R2_F5 (R2) 0603
+Added Member To Class: ClassName=Analog Signal Filter Member=F1 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F2 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F3 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F4 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F5 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F6 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F7 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=Analog Signal Filter Member=F8 (Analog Signal Filter.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=PTC1 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=PTC2 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=PTC3 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=PTC4 (PTC Fuse.SchDoc)
+Added Member To Class: ClassName=PTC Fuse Member=PTC5 (PTC Fuse.SchDoc)

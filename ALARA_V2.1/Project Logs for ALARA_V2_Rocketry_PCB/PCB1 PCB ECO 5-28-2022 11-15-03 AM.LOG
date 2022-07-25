@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=IMU RST Pin=MCU-136
+Removed Pin From Net: NetName=IMU INT Pin=MCU-137
+Change Component Comment : Designator=Y Old Comment=CX2016DB40000D0FLJCC New Comment=
+Change component parameters: Designator = "R2_L1" ("R2"); Footprint = "J1-0603"; UniqueID = "\1VVSDMKIJ\FVOLGAUY" ("\1VVSDMKIJ\FVOLGAUY")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_L2" ("R2"); Footprint = "J1-0603"; UniqueID = "\2VVSDMKIJ\FVOLGAUY" ("\2VVSDMKIJ\FVOLGAUY")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_L1" ("R3"); Footprint = "J1-0603"; UniqueID = "\1VVSDMKIJ\CZCOIERI" ("\1VVSDMKIJ\CZCOIERI")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_L2" ("R3"); Footprint = "J1-0603"; UniqueID = "\2VVSDMKIJ\CZCOIERI" ("\2VVSDMKIJ\CZCOIERI")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HPO VD10 Pin=MCU-86
+Added Pin To Net: NetName=HPO PWM10 Pin=MCU-97
+Added Pin To Net: NetName=HPO PWM9 Pin=MCU-98
+Added Pin To Net: NetName=HPO VD9 Pin=MCU-103
+Added Pin To Net: NetName=HPO PWM8 Pin=MCU-104
+Added Pin To Net: NetName=HPO VD8 Pin=MCU-105
+Added Pin To Net: NetName=HPO PWM7 Pin=MCU-106
+Added Pin To Net: NetName=HPO PWM6 Pin=MCU-109
+Added Pin To Net: NetName=HPO VD7 Pin=MCU-113
+Added Pin To Net: NetName=HPO VD6 Pin=MCU-114
+Added Pin To Net: NetName=HPO VD5 Pin=MCU-115
+Added Pin To Net: NetName=HPO VD4 Pin=MCU-116
+Added Pin To Net: NetName=HPO DIG10 Pin=MCU-125
+Added Pin To Net: NetName=HPO DIG9 Pin=MCU-126
+Added Pin To Net: NetName=HPO PWM5 Pin=MCU-127
+Added Pin To Net: NetName=HPO VD3 Pin=MCU-128
+Added Pin To Net: NetName=HPO PWM4 Pin=MCU-129
+Added Pin To Net: NetName=HPO PWM3 Pin=MCU-130
+Added Pin To Net: NetName=HPO PWM2 Pin=MCU-131
+Added Pin To Net: NetName=HPO VD2 Pin=MCU-132
+Added Pin To Net: NetName=HPO VD1 Pin=MCU-133
+Added Pin To Net: NetName=HPO PWM1 Pin=MCU-136
+Added Pin To Net: NetName=HPO DIG8 Pin=MCU-137
+Added Pin To Net: NetName=HPO DIG7 Pin=MCU-138
+Added Pin To Net: NetName=HPO DIG6 Pin=MCU-139
+Added Pin To Net: NetName=HPO DIG5 Pin=MCU-140
+Added Pin To Net: NetName=HPO DIG4 Pin=MCU-141
+Added Pin To Net: NetName=HPO DIG3 Pin=MCU-142
+Added Pin To Net: NetName=HPO DIG2 Pin=MCU-143
+Added Pin To Net: NetName=HPO DIG1 Pin=MCU-144
+Change Net Name : Old Net Name=PTA18 New Net Name=Y1 A
+Change Net Name : Old Net Name=PTA19 New Net Name=Y1 B

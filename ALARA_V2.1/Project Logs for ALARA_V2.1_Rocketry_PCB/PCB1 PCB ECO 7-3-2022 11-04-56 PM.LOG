@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=LoRa CSN Pin=MCU-47
+Removed Pin From Net: NetName=NRF IRQ Pin=MCU-54
+Removed Pin From Net: NetName=LoRa RST Pin=MCU-55
+Removed Pin From Net: NetName=ACC CSN Pin=MCU-58
+Removed Pin From Net: NetName=ACC TRIG Pin=MCU-59
+Removed Pin From Net: NetName=IMU1 RST Pin=MCU-60
+Removed Pin From Net: NetName=MUX S0 Pin=MCU-99
+Removed Pin From Net: NetName=MUX S1 Pin=MCU-100
+Removed Pin From Net: NetName=MUX S2 Pin=MCU-101
+Removed Pin From Net: NetName=MUX OE Pin=MCU-102
+Added Pin To Net: NetName=ADDR S0 Pin=MCU-9
+Added Pin To Net: NetName=ADDR S1 Pin=MCU-10
+Added Pin To Net: NetName=ADDR S2 Pin=MCU-11
+Added Pin To Net: NetName=GND Pin=MCU-49
+Added Pin To Net: NetName=IMU1 RST Pin=MCU-54
+Added Pin To Net: NetName=AOUT2 Pin=MCU-81
+Added Pin To Net: NetName=AOUT1 Pin=MCU-82
+Added Pin To Net: NetName=GND Pin=R1_F2-1
+Added Pin To Net: NetName=GND Pin=R1_F3-1
+Added Pin To Net: NetName=GND Pin=R1_F4-1
+Added Pin To Net: NetName=GND Pin=R1_F5-1
+Added Pin To Net: NetName=GND Pin=R1_F6-1
+Added Pin To Net: NetName=GND Pin=R1_F7-1
+Added Pin To Net: NetName=GND Pin=R1_F8-1
+Added Pin To Net: NetName=GND Pin=Secondary Connector-3
+Added Pin To Net: NetName=GND Pin=Secondary Connector-4
+Added Pin To Net: NetName=GND Pin=Secondary Connector-6
+Added Pin To Net: NetName=GND Pin=Secondary Connector-7
+Added Pin To Net: NetName=GND Pin=Secondary Connector-9
+Added Pin To Net: NetName=GND Pin=Secondary Connector-10
+Added Pin To Net: NetName=GND Pin=Secondary Connector-12
+Added Pin To Net: NetName=GND Pin=Secondary Connector-13
+Change Net Name : Old Net Name=AOUT1 New Net Name=AIN1
+Change Net Name : Old Net Name=AOUT2 New Net Name=AIN2
+Change Net Name : Old Net Name=AOUT3 New Net Name=AIN3
+Change Net Name : Old Net Name=AOUT4 New Net Name=AIN4
+Change Net Name : Old Net Name=AOUT5 New Net Name=AIN5
+Change Net Name : Old Net Name=AOUT6 New Net Name=AIN6
+Change Net Name : Old Net Name=AOUT7 New Net Name=AIN7
+Change Net Name : Old Net Name=AOUT8 New Net Name=AIN8
+Change Net Name : Old Net Name=DIO3 New Net Name=DIO1
+Change Net Name : Old Net Name=GND New Net Name=DIO2
+Added Pin To Net: NetName=ADDR OEN Pin=DEMUX-7
+Added Pin To Net: NetName=ADDR OEN Pin=MCU-12
+Added Pin To Net: NetName=ADDR OEN Pin=R502-2
+Added Net: Name=ADDR OEN
+Added Pin To Net: NetName=EX AIN1 Pin=R1_F1-1
+Added Pin To Net: NetName=EX AIN1 Pin=Secondary Connector-1
+Added Net: Name=EX AIN1

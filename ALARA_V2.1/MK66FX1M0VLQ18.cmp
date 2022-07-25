@@ -1,0 +1,156 @@
+Component Name : COMPONENT_1
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 144
+          PTE0           1              Input
+          PTE1/LLWU_P0   2              Input
+          PTE2/LLWU_P1   3              Input
+          PTE3           4              Input
+          VDD            5              Input
+          VSS            6              Input
+          PTE4/LLWU_P2   7              Input
+          PTE5           8              Input
+          PTE6/LLWU_P16  9              Input
+          PTE7           10             Input
+          PTE8           11             Input
+          PTE9/LLWU_P17  12             Input
+          PTE10/LLWU_P18 13             Input
+          PTE11          14             Input
+          PTE12          15             Input
+          VDD            16             Input
+          VSS            17             Input
+          VSS            18             Input
+          USB0_DP        19             Input
+          USB0_DM        20             Input
+          VREG_OUT       21             Input
+          VREG_IN0       22             Input
+          VREG_IN1       23             Input
+          USB1_VSS       24             Input
+          USB1_DP        25             Input
+          USB1_DM        26             Input
+          USB1_VBUS      27             Input
+          ADC0_DM0/ADC1_DM328             Input
+          ADC1_DP0/ADC0_DP329             Input
+          ADC1_DM0/ADC0_DM330             Input
+          VDDA           31             Input
+          VREFH          32             Input
+          VREFL          33             Input
+          VSSA           34             Input
+          ADC1_SE16/CMP2_IN2/ADC0_SE2235             Input
+          ADC0_SE16/CMP1_IN2/ADC0_SE2136             Input
+          VREF_OUT/CMP1_IN5/CMP0_IN5/ADC1_SE1837             Input
+          DAC0_OUT/CMP1_IN3/ADC0_SE2338             Input
+          DAC1_OUT/CMP0_IN4/CMP2_IN3/ADC1_SE2339             Input
+          XTAL32         40             Input
+          EXTAL32        41             Input
+          VBAT           42             Input
+          VDD            43             Input
+          VSS            44             Input
+          PTE24          45             Input
+          PTE25/LLWU_P21 46             Input
+          PTE26          47             Input
+          PTE27          48             Input
+          PTE28          49             Input
+          PTA0           50             Input
+          PTA1           51             Input
+          PTA2           52             Input
+          PTA3           53             Input
+          PTA4/LLWU_P3   54             Input
+          PTA5           55             Input
+          VDD            56             Input
+          VSS            57             Input
+          PTA6           58             Input
+          PTA7           59             Input
+          PTA8           60             Input
+          PTA9           61             Input
+          PTA10/LLWU_P22 62             Input
+          PTA11/LLWU_P23 63             Input
+          PTA12          64             Input
+          PTA13/LLWU_P4  65             Input
+          PTA14          66             Input
+          PTA15          67             Input
+          PTA16          68             Input
+          PTA17          69             Input
+          VDD            70             Input
+          VSS            71             Input
+          PTA18          72             Input
+          PTA19          73             Input
+          RESET_b        74             Input
+          PTA24          75             Input
+          PTA25          76             Input
+          PTA26          77             Input
+          PTA27          78             Input
+          PTA28          79             Input
+          PTA29          80             Input
+          PTB0/LLWU_P5   81             Input
+          PTB1           82             Input
+          PTB2           83             Input
+          PTB3           84             Input
+          PTB4           85             Input
+          PTB5           86             Input
+          PTB6           87             Input
+          PTB7           88             Input
+          PTB8           89             Input
+          PTB9           90             Input
+          PTB10          91             Input
+          PTB11          92             Input
+          VSS            93             Input
+          VDD            94             Input
+          PTB16          95             Input
+          PTB17          96             Input
+          PTB18          97             Input
+          PTB19          98             Input
+          PTB20          99             Input
+          PTB21          100            Input
+          PTB22          101            Input
+          PTB23          102            Input
+          PTC0           103            Input
+          PTC1/LLWU_P6   104            Input
+          PTC2           105            Input
+          PTC3/LLWU_P7   106            Input
+          VSS            107            Input
+          VDD            108            Input
+          PTC4/LLWU_P8   109            Input
+          PTC5/LLWU_P9   110            Input
+          PTC6/LLWU_P10  111            Input
+          PTC7           112            Input
+          PTC8           113            Input
+          PTC9           114            Input
+          PTC10          115            Input
+          PTC11/LLWU_P11 116            Input
+          PTC12          117            Input
+          PTC13          118            Input
+          PTC14          119            Input
+          PTC15          120            Input
+          VSS            121            Input
+          VDD            122            Input
+          PTC16          123            Input
+          PTC17          124            Input
+          PTC18          125            Input
+          PTC19          126            Input
+          PTD0/LLWU_P12  127            Input
+          PTD1           128            Input
+          PTD2/LLWU_P13  129            Input
+          PTD3           130            Input
+          PTD4/LLWU_P14  131            Input
+          PTD5           132            Input
+          PTD6/LLWU_P15  133            Input
+          VSS            134            Input
+          VDD            135            Input
+          PTD7           136            Input
+          PTD8/LLWU_P24  137            Input
+          PTD9           138            Input
+          PTD10          139            Input
+          PTD11/LLWU_P25 140            Input
+          PTD12          141            Input
+          PTD13          142            Input
+          PTD14          143            Input
+          PTD15          144            Input
+          Hidden Pins : 
+

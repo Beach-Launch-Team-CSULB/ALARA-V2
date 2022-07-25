@@ -1,0 +1,130 @@
+Added Component: Designator=Q1(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetOP1_7 Pin=Q1-1
+Added Pin To Net: NetName=HPO1 D Pin=Q1-2
+Added Pin To Net: NetName=HPO1 D Pin=Q1-3
+Added Pin To Net: NetName=HPO1 D Pin=Q1-4
+Added Pin To Net: NetName=GND Pin=Q1-5
+Added Pin To Net: NetName=GND Pin=Q1-6
+Added Pin To Net: NetName=GND Pin=Q1-7
+Added Pin To Net: NetName=NetOP1_5 Pin=Q1-8
+Added Pin To Net: NetName=HPO1 D Pin=Q1-10
+Added Pin To Net: NetName=NetOP2_7 Pin=Q2-1
+Added Pin To Net: NetName=HPO2 D Pin=Q2-2
+Added Pin To Net: NetName=HPO2 D Pin=Q2-3
+Added Pin To Net: NetName=HPO2 D Pin=Q2-4
+Added Pin To Net: NetName=GND Pin=Q2-5
+Added Pin To Net: NetName=GND Pin=Q2-6
+Added Pin To Net: NetName=GND Pin=Q2-7
+Added Pin To Net: NetName=NetOP2_5 Pin=Q2-8
+Added Pin To Net: NetName=HPO2 D Pin=Q2-10
+Added Pin To Net: NetName=NetOP3_7 Pin=Q3-1
+Added Pin To Net: NetName=HPO3 D Pin=Q3-2
+Added Pin To Net: NetName=HPO3 D Pin=Q3-3
+Added Pin To Net: NetName=HPO3 D Pin=Q3-4
+Added Pin To Net: NetName=GND Pin=Q3-5
+Added Pin To Net: NetName=GND Pin=Q3-6
+Added Pin To Net: NetName=GND Pin=Q3-7
+Added Pin To Net: NetName=NetOP3_5 Pin=Q3-8
+Added Pin To Net: NetName=HPO3 D Pin=Q3-10
+Added Pin To Net: NetName=NetOP4_7 Pin=Q4-1
+Added Pin To Net: NetName=HPO4 D Pin=Q4-2
+Added Pin To Net: NetName=HPO4 D Pin=Q4-3
+Added Pin To Net: NetName=HPO4 D Pin=Q4-4
+Added Pin To Net: NetName=GND Pin=Q4-5
+Added Pin To Net: NetName=GND Pin=Q4-6
+Added Pin To Net: NetName=GND Pin=Q4-7
+Added Pin To Net: NetName=NetOP4_5 Pin=Q4-8
+Added Pin To Net: NetName=HPO4 D Pin=Q4-10
+Added Pin To Net: NetName=NetOP5_7 Pin=Q5-1
+Added Pin To Net: NetName=HPO5 D Pin=Q5-2
+Added Pin To Net: NetName=HPO5 D Pin=Q5-3
+Added Pin To Net: NetName=HPO5 D Pin=Q5-4
+Added Pin To Net: NetName=GND Pin=Q5-5
+Added Pin To Net: NetName=GND Pin=Q5-6
+Added Pin To Net: NetName=GND Pin=Q5-7
+Added Pin To Net: NetName=NetOP5_5 Pin=Q5-8
+Added Pin To Net: NetName=HPO5 D Pin=Q5-10
+Added Pin To Net: NetName=NetOP6_7 Pin=Q6-1
+Added Pin To Net: NetName=HPO6 D Pin=Q6-2
+Added Pin To Net: NetName=HPO6 D Pin=Q6-3
+Added Pin To Net: NetName=HPO6 D Pin=Q6-4
+Added Pin To Net: NetName=GND Pin=Q6-5
+Added Pin To Net: NetName=GND Pin=Q6-6
+Added Pin To Net: NetName=GND Pin=Q6-7
+Added Pin To Net: NetName=NetOP6_5 Pin=Q6-8
+Added Pin To Net: NetName=HPO6 D Pin=Q6-10
+Added Pin To Net: NetName=NetOP7_7 Pin=Q7-1
+Added Pin To Net: NetName=HPO7 D Pin=Q7-2
+Added Pin To Net: NetName=HPO7 D Pin=Q7-3
+Added Pin To Net: NetName=HPO7 D Pin=Q7-4
+Added Pin To Net: NetName=GND Pin=Q7-5
+Added Pin To Net: NetName=GND Pin=Q7-6
+Added Pin To Net: NetName=GND Pin=Q7-7
+Added Pin To Net: NetName=NetOP7_5 Pin=Q7-8
+Added Pin To Net: NetName=HPO7 D Pin=Q7-10
+Added Pin To Net: NetName=NetOP8_7 Pin=Q8-1
+Added Pin To Net: NetName=HPO8 D Pin=Q8-2
+Added Pin To Net: NetName=HPO8 D Pin=Q8-3
+Added Pin To Net: NetName=HPO8 D Pin=Q8-4
+Added Pin To Net: NetName=GND Pin=Q8-5
+Added Pin To Net: NetName=GND Pin=Q8-6
+Added Pin To Net: NetName=GND Pin=Q8-7
+Added Pin To Net: NetName=NetOP8_5 Pin=Q8-8
+Added Pin To Net: NetName=HPO8 D Pin=Q8-10
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Q6 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Q7 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Q8 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

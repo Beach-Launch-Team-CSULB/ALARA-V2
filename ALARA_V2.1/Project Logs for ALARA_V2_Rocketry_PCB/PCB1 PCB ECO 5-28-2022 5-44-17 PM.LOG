@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ADC 3.3V Pin=MCU-69
+Added Net: Name=ADC 3.3V
+Added Pin To Net: NetName=ADC 5V Pin=MCU-85
+Added Net: Name=ADC 5V

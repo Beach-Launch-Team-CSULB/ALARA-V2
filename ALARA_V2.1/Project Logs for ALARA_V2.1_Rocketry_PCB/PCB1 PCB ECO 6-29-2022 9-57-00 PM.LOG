@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=Net3.3V_1 Pin=3.3V-1
+Removed Pin From Net: NetName=GND Pin=3.3V-2
+Removed Pin From Net: NetName=3.3V Pin=3.3V-3
+Removed Pin From Net: NetName=GND Pin=3.3V-4
+Removed Pin From Net: NetName=3.3V Pin=C301-2
+Removed Pin From Net: NetName=RS485_TX_N Pin=R305-1
+Removed Pin From Net: NetName=RS485_TX_P Pin=R305-2
+Removed Pin From Net: NetName=RS485_RX_P Pin=R306-1
+Removed Pin From Net: NetName=RS485_RX_N Pin=R306-2
+Removed Pin From Net: NetName=3.3V Pin=RS-485-1
+Removed Pin From Net: NetName=RS485_RX_N Pin=RS-485-5
+Removed Pin From Net: NetName=RS485_RX_P Pin=RS-485-6
+Removed Pin From Net: NetName=RS485_TX_N Pin=RS-485-7
+Removed Pin From Net: NetName=RS485_TX_P Pin=RS-485-8
+Removed Member From Class: ClassName=Sheet1 Member=3.3V
+Removed Member From Class: ClassName=Sheet1 Member=?
+Change Component Designator: OldDesignator=C509 NewDesignator=C501
+Change Component Designator: OldDesignator=R602 NewDesignator=R603
+Change Component Designator: OldDesignator=R603 NewDesignator=R604
+Added Component: Designator=R108(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R109(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R501(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R602(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT361-1_V)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nxp.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.nxp.com/documents/data_sheet/PCA9685.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.nxp.com/documents/outline_drawing/sot361-1_po.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "25000000 Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "28-Pin Small Outline Package, Body 9.7 x 4.4 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "02/2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PCA9685"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current Max"; Value = "10 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = "2.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C301-2
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=3.3V Pin=IC?-2
+Added Pin To Net: NetName=Net3.3V_1 Pin=IC?-3
+Added Pin To Net: NetName=3.3V Pin=IC?-4
+Added Pin To Net: NetName=BAT+ Pin=R108-1
+Added Pin To Net: NetName=GND Pin=R109-2
+Added Pin To Net: NetName=RS485_RX_N Pin=R305-1
+Added Pin To Net: NetName=RS485_RX_P Pin=R305-2
+Added Pin To Net: NetName=RS485_TX_P Pin=R306-1
+Added Pin To Net: NetName=RS485_TX_N Pin=R306-2
+Added Pin To Net: NetName=3.3V Pin=R501-1
+Added Pin To Net: NetName=MUX OE Pin=R501-2
+Added Pin To Net: NetName=GND Pin=R602-1
+Added Pin To Net: NetName=BUZZ Pin=R602-2
+Added Pin To Net: NetName=5V Pin=RS-485-1
+Added Pin To Net: NetName=RS485_TX_N Pin=RS-485-5
+Added Pin To Net: NetName=RS485_TX_P Pin=RS-485-6
+Added Pin To Net: NetName=RS485_RX_N Pin=RS-485-7
+Added Pin To Net: NetName=RS485_RX_P Pin=RS-485-8
+Change Net Name : Old Net Name=Net3.3V_1 New Net Name=Net5V_1
+Added Pin To Net: NetName=VD BAT+ Pin=R108-2
+Added Pin To Net: NetName=VD BAT+ Pin=R109-1
+Added Net: Name=VD BAT+
+Added Member To Class: ClassName=Sheet1 Member=Component R108 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R109 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R501 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R604 0603
+Added Member To Class: ClassName=Sheet1 Member=Component U? PCA9685PW,112

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetOP1_7 Pin=Q1-1
+Removed Pin From Net: NetName=NetOP1_5 Pin=Q1-8
+Removed Pin From Net: NetName=NetOP1_8 Pin=R13-1
+Removed Pin From Net: NetName=NetOP1_6 Pin=R14-1
+Added Pin To Net: NetName=NetOP1_5 Pin=Q1-1
+Added Pin To Net: NetName=NetOP1_7 Pin=Q1-8
+Added Pin To Net: NetName=NetOP1_6 Pin=R13-1
+Added Pin To Net: NetName=NetOP1_8 Pin=R14-1
+Change Net Name : Old Net Name=HPO1 DIG New Net Name=HPO1 PWM
+Change Net Name : Old Net Name=HPO1 PWM New Net Name=HPO1 DIG
+Added Member To Class: ClassName=Sheet1 Member=Component P? 47589-0001
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VD 3.3V Pin=MCU-69
+Removed Pin From Net: NetName=VD 5V Pin=MCU-85
+Added Pin To Net: NetName=VD 5V Pin=MCU-69
+Added Pin To Net: NetName=VD 3.3V Pin=MCU-85

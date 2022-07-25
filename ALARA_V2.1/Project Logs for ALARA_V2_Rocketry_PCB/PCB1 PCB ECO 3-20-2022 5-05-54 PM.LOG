@@ -1,0 +1,44 @@
+Added Component: Designator=Analog Inputs 1(G125-MH11605M4P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/G125-MH1XX05M4P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G125-MH11605M4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-G125MH1165M4PM4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/G125-MH11605M4P?qs=vHuUswq2%252BszmOoz18%252BqG2Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Analog Inputs 2(G125-MH11605M4P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/G125-MH1XX05M4P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G125-MH11605M4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-G125MH1165M4PM4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/G125-MH11605M4P?qs=vHuUswq2%252BszmOoz18%252BqG2Q%3D%3D"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component Analog Inputs 1 G125-MH11605M4P
+Added Member To Class: ClassName=Sheet1 Member=Component Analog Inputs 2 G125-MH11605M4P
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component R51 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R53 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R55 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R57 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R59 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R61 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R63 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R65 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

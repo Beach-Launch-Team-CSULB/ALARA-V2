@@ -1,0 +1,48 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Component Designator: OldDesignator=R? NewDesignator=R53
+Change Component Designator: OldDesignator=R? NewDesignator=R54
+Change Component Designator: OldDesignator=R? NewDesignator=R55
+Change Component Designator: OldDesignator=R? NewDesignator=R56
+Change Component Designator: OldDesignator=R? NewDesignator=R57
+Change Component Designator: OldDesignator=R? NewDesignator=R58
+Change Component Designator: OldDesignator=R? NewDesignator=R59
+Change Component Designator: OldDesignator=R? NewDesignator=R60
+Change Component Designator: OldDesignator=R? NewDesignator=R61
+Change Component Designator: OldDesignator=R? NewDesignator=R62
+Change Component Designator: OldDesignator=R? NewDesignator=R63
+Change Component Designator: OldDesignator=R? NewDesignator=R64
+Change Component Designator: OldDesignator=R? NewDesignator=R65
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 8pF
+Added Member To Class: ClassName=Sheet1 Member=Component R50 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R51 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R52 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R53 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R54 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R55 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R56 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R57 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R58 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R59 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R60 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R61 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R63 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R64 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R65 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CX2016DB40000D0FLJCC

@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=BPS CSN Pin=MCU-88
+Removed Pin From Net: NetName=IMU2 CSBG Pin=MCU-89
+Removed Pin From Net: NetName=IMU2 CSBA Pin=MCU-90
+Removed Pin From Net: NetName=AOUT2 Pin=MCU-91
+Removed Pin From Net: NetName=AOUT1 Pin=MCU-92
+Removed Pin From Net: NetName=HPO PWM10 Pin=MCU-97
+Removed Pin From Net: NetName=HPO PWM9 Pin=MCU-98
+Removed Pin From Net: NetName=HPO VD9 Pin=MCU-103
+Removed Pin From Net: NetName=HPO PWM8 Pin=MCU-104
+Removed Pin From Net: NetName=HPO VD8 Pin=MCU-105
+Removed Pin From Net: NetName=HPO PWM7 Pin=MCU-106
+Removed Pin From Net: NetName=HPO PWM6 Pin=MCU-109
+Removed Pin From Net: NetName=HPO VD7 Pin=MCU-113
+Removed Pin From Net: NetName=ADDR0 Pin=MCU-117
+Removed Pin From Net: NetName=ADDR1 Pin=MCU-118
+Removed Pin From Net: NetName=ADDR2 Pin=MCU-119
+Removed Pin From Net: NetName=ADDR3 Pin=MCU-120
+Removed Pin From Net: NetName=HPO DIG10 Pin=MCU-125
+Removed Pin From Net: NetName=HPO DIG9 Pin=MCU-126
+Removed Pin From Net: NetName=HPO DIG8 Pin=MCU-137
+Removed Pin From Net: NetName=HPO DIG7 Pin=MCU-138
+Removed Pin From Net: NetName=HPO DIG6 Pin=MCU-139
+Removed Pin From Net: NetName=HPO DIG5 Pin=MCU-140
+Removed Pin From Net: NetName=HPO DIG4 Pin=MCU-141
+Removed Pin From Net: NetName=HPO DIG3 Pin=MCU-142
+Removed Pin From Net: NetName=HPO DIG2 Pin=MCU-143
+Removed Pin From Net: NetName=HPO DIG1 Pin=MCU-144
+Added Pin To Net: NetName=HPO DIG10 Pin=MCU-90
+Added Pin To Net: NetName=HPO VD9 Pin=MCU-91
+Added Pin To Net: NetName=HPO VD8 Pin=MCU-92
+Added Pin To Net: NetName=RS485 R Pin=MCU-95
+Added Pin To Net: NetName=RS485 D Pin=MCU-96
+Added Pin To Net: NetName=BUZZ Pin=MCU-98
+Added Pin To Net: NetName=HPO VD7 Pin=MCU-103
+Added Pin To Net: NetName=HPO PWM10 Pin=MCU-104
+Added Pin To Net: NetName=HPO PWM9 Pin=MCU-105
+Added Pin To Net: NetName=HPO PWM8 Pin=MCU-106
+Added Pin To Net: NetName=HPO PWM7 Pin=MCU-109
+Added Pin To Net: NetName=HPO PWM6 Pin=MCU-113
+Added Pin To Net: NetName=HPO DIG9 Pin=MCU-117
+Added Pin To Net: NetName=HPO DIG8 Pin=MCU-118
+Added Pin To Net: NetName=HPO DIG7 Pin=MCU-119
+Added Pin To Net: NetName=HPO DIG6 Pin=MCU-120
+Added Pin To Net: NetName=HPO DIG5 Pin=MCU-123
+Added Pin To Net: NetName=HPO DIG4 Pin=MCU-124
+Added Pin To Net: NetName=HPO DIG3 Pin=MCU-125
+Added Pin To Net: NetName=HPO DIG2 Pin=MCU-126
+Added Pin To Net: NetName=HPO DIG1 Pin=MCU-139

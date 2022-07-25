@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IMU2 CSBG Pin=MCU-89
+Removed Pin From Net: NetName=IMU2 CSBA Pin=MCU-90
+Added Pin To Net: NetName=ACC CSN Pin=MCU-58
+Added Pin To Net: NetName=ACC TRIG Pin=MCU-59

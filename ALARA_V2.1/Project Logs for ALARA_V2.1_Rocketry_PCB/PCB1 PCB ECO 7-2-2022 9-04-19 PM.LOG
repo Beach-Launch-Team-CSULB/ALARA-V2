@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=ADDR8 Pin=RH_J9-2
+Added Pin To Net: NetName=ADDR8 Pin=RL_J9-1
+Added Pin To Net: NetName=ADDR8 Pin=U?-1
+Added Net: Name=ADDR8
+Added Pin To Net: NetName=ADDR9 Pin=RH_J10-2
+Added Pin To Net: NetName=ADDR9 Pin=RL_J10-1
+Added Pin To Net: NetName=ADDR9 Pin=U?-2
+Added Net: Name=ADDR9
+Added Pin To Net: NetName=ADDR10 Pin=RH_J11-2
+Added Pin To Net: NetName=ADDR10 Pin=RL_J11-1
+Added Pin To Net: NetName=ADDR10 Pin=U?-3
+Added Net: Name=ADDR10
+Added Pin To Net: NetName=ADDR11 Pin=RH_J12-2
+Added Pin To Net: NetName=ADDR11 Pin=RL_J12-1
+Added Pin To Net: NetName=ADDR11 Pin=U?-4
+Added Net: Name=ADDR11
+Added Pin To Net: NetName=ADDR12 Pin=RH_J13-2
+Added Pin To Net: NetName=ADDR12 Pin=RL_J13-1
+Added Pin To Net: NetName=ADDR12 Pin=U?-5
+Added Net: Name=ADDR12
+Added Pin To Net: NetName=ADDR13 Pin=RH_J14-2
+Added Pin To Net: NetName=ADDR13 Pin=RL_J14-1
+Added Pin To Net: NetName=ADDR13 Pin=U?-24
+Added Net: Name=ADDR13

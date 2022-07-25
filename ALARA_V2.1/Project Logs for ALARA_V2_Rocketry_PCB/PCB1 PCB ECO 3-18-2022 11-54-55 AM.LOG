@@ -1,0 +1,189 @@
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found FP-83611-9006-MFG
+Added Component: Designator=MOS2(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=MOS3(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=MOS4(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=MOS5(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=MOS6(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=MOS7(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=MOS8(MOSFET_DT-T1-GE3_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIZ340DT-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C38-1
+Add Pin To Net: Unknown Pin: Pin C38-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C42-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin C43-1
+Add Pin To Net: Unknown Pin: Pin C43-2
+Add Pin To Net: Unknown Pin: Pin C44-1
+Add Pin To Net: Unknown Pin: Pin C44-2
+Add Pin To Net: Unknown Pin: Pin C45-1
+Add Pin To Net: Unknown Pin: Pin C45-2
+Add Pin To Net: Unknown Pin: Pin C46-1
+Add Pin To Net: Unknown Pin: Pin C46-2
+Add Pin To Net: Unknown Pin: Pin C47-1
+Add Pin To Net: Unknown Pin: Pin C47-2
+Add Pin To Net: Unknown Pin: Pin C48-1
+Add Pin To Net: Unknown Pin: Pin C48-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Class Member: Failed to add class member : Component C4 10uF
+Add Class Member: Failed to add class member : Component C6 100nF
+Add Class Member: Failed to add class member : Component C7 100nF
+Add Class Member: Failed to add class member : Component C9 10uF
+Add Class Member: Failed to add class member : Component C11 22uF
+Add Class Member: Failed to add class member : Component C12 2.2uF
+Add Class Member: Failed to add class member : Component C20 10uF
+Add Class Member: Failed to add class member : Component C21 100nF
+Add Class Member: Failed to add class member : Component C22 100nF
+Add Class Member: Failed to add class member : Component C23 100nF
+Add Class Member: Failed to add class member : Component C24 100nF
+Add Class Member: Failed to add class member : Component C25 100nF
+Add Class Member: Failed to add class member : Component C26 100nF
+Add Class Member: Failed to add class member : Component C28 100nF
+Add Class Member: Failed to add class member : Component C29 100nF
+Add Class Member: Failed to add class member : Component C30 100nF
+Add Class Member: Failed to add class member : Component C31 100nF
+Add Class Member: Failed to add class member : Component C35 100nF
+Add Class Member: Failed to add class member : Component C36 22uF
+Add Class Member: Failed to add class member : Component C37 10uF
+Add Class Member: Failed to add class member : Component C38 10uF
+Add Class Member: Failed to add class member : Component C39 8pF
+Add Class Member: Failed to add class member : Component C40 8pF
+Add Class Member: Failed to add class member : Component C41 100nF
+Add Class Member: Failed to add class member : Component C42 8pF
+Add Class Member: Failed to add class member : Component C43 8pF
+Add Class Member: Failed to add class member : Component C44 100nF
+Add Class Member: Failed to add class member : Component C45 100nF
+Add Class Member: Failed to add class member : Component C46 120nF
+Add Class Member: Failed to add class member : Component C47 1uF
+Add Class Member: Failed to add class member : Component C48 10uF
+Add Class Member: Failed to add class member : Component C? 100nF
+Add Class Member: Failed to add class member : Component J2 83611-9006
+Added Member To Class: ClassName=Sheet1 Member=Component MOS2 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component MOS3 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component MOS4 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component MOS5 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component MOS6 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component MOS7 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component MOS8 SIZ340DT-T1-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component U? SAM-M8

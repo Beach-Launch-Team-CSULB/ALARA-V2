@@ -1,0 +1,5 @@
+Added Component: Designator=U?(SAM-M8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "u-blox SAM GNSS antenna module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SAM-M8"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U? SAM-M8
